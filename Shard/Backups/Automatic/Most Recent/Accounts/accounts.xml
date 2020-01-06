@@ -1,0 +1,4445 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<accounts count="216">
+	<account>
+		<username>cousineau628</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1432368680</HardwareHash>
+		<created>2016-03-13T17:10:46.1041796-07:00</created>
+		<lastLogin>2016-03-17T17:08:06.9889453-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9719</char>
+			<char index="1">10168</char>
+			<char index="2">10335</char>
+		</chars>
+		<addressList count="5">
+			<ip>161.57.164.43</ip>
+			<ip>68.188.222.124</ip>
+			<ip>161.57.164.63</ip>
+			<ip>161.57.164.93</ip>
+			<ip>161.57.164.87</ip>
+		</addressList>
+		<lastgameloginip>161.57.164.43</lastgameloginip>
+	</account>
+	<account>
+		<username>dannyking21</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1660693477</HardwareHash>
+		<created>2016-03-14T19:18:30.6041796-07:00</created>
+		<lastLogin>2016-03-16T19:38:15.9166796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">18751</char>
+		</chars>
+		<comments>
+			<comment addedBy="AUDIT" lastModified="2016-03-15T19:16:54.8854296-07:00">Possible through door or other blocking tile exploit.</comment>
+		</comments>
+		<addressList count="1">
+			<ip>71.93.14.73</ip>
+		</addressList>
+		<lastgameloginip>71.93.14.73</lastgameloginip>
+	</account>
+	<account>
+		<username>Star Ocean</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-285185303</HardwareHash>
+		<created>2016-03-13T18:07:14.1823046-07:00</created>
+		<lastLogin>2016-03-16T21:53:52.6823046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">10583</char>
+			<char index="1">27385</char>
+		</chars>
+		<addressList count="1">
+			<ip>68.34.171.96</ip>
+		</addressList>
+		<lastgameloginip>68.34.171.96</lastgameloginip>
+	</account>
+	<account>
+		<username>adelphos</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1174058734</HardwareHash>
+		<created>2016-03-15T21:38:45.0885546-07:00</created>
+		<lastLogin>2016-03-15T21:57:57.8229296-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">880</char>
+		</chars>
+		<addressList count="1">
+			<ip>73.240.196.120</ip>
+		</addressList>
+		<lastgameloginip>73.240.196.120</lastgameloginip>
+	</account>
+	<account>
+		<username>hilikus</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-822759669</HardwareHash>
+		<created>2016-03-13T11:37:13.3043750-07:00</created>
+		<lastLogin>2016-03-15T11:15:12.9010546-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8760</char>
+			<char index="1">9900</char>
+		</chars>
+		<addressList count="1">
+			<ip>188.221.61.27</ip>
+		</addressList>
+		<lastgameloginip>188.221.61.27</lastgameloginip>
+	</account>
+	<account>
+		<username>3nirvana3</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email>joelhawkins308@gmail.com</email>
+		<accountactivated>true</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>479847987</HardwareHash>
+		<created>2016-03-13T09:42:22.4762500-07:00</created>
+		<lastLogin>2016-03-17T16:43:15.6627734-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8437</char>
+			<char index="1">19126</char>
+		</chars>
+		<addressList count="1">
+			<ip>75.32.49.51</ip>
+		</addressList>
+		<emailHistory>
+			<addr>joelhawkins308@gmail.com</addr>
+		</emailHistory>
+		<lastgameloginip>75.32.49.51</lastgameloginip>
+	</account>
+	<account>
+		<username>Paposeco</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1164639711</HardwareHash>
+		<created>2016-03-17T12:12:43.9323046-07:00</created>
+		<lastLogin>2016-03-17T12:15:54.0885546-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">39</char>
+		</chars>
+		<addressList count="1">
+			<ip>5.249.15.217</ip>
+		</addressList>
+		<lastgameloginip>5.249.15.217</lastgameloginip>
+	</account>
+	<account>
+		<username>Bacacay1</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-493390106</HardwareHash>
+		<created>2016-03-15T20:53:57.1666796-07:00</created>
+		<lastLogin>2016-03-17T20:07:12.1530078-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">715</char>
+			<char index="1">1636</char>
+		</chars>
+		<addressList count="1">
+			<ip>68.199.8.52</ip>
+		</addressList>
+		<lastgameloginip>68.199.8.52</lastgameloginip>
+	</account>
+	<account>
+		<username>bigpuns</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>854613716</HardwareHash>
+		<created>2016-03-13T08:05:40.8200000-07:00</created>
+		<lastLogin>2016-03-13T09:13:15.3200000-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7484</char>
+			<char index="1">7768</char>
+			<char index="2">8006</char>
+			<char index="3">8178</char>
+		</chars>
+		<addressList count="1">
+			<ip>50.69.10.102</ip>
+		</addressList>
+		<lastgameloginip>50.69.10.102</lastgameloginip>
+	</account>
+	<account>
+		<username>cadewinegar3</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>667149999</HardwareHash>
+		<created>2016-03-13T08:04:54.8825000-07:00</created>
+		<lastLogin>2016-03-17T18:10:16.6696093-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7158</char>
+			<char index="1">10372</char>
+			<char index="2">17318</char>
+			<char index="3">1395</char>
+		</chars>
+		<addressList count="4">
+			<ip>209.248.88.35</ip>
+			<ip>174.16.51.18</ip>
+			<ip>174.16.49.238</ip>
+			<ip>184.96.126.83</ip>
+		</addressList>
+		<lastgameloginip>209.248.88.35</lastgameloginip>
+	</account>
+	<account>
+		<username>cadewinegar4</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1589349382</HardwareHash>
+		<created>2016-03-16T16:15:21.5573046-07:00</created>
+		<lastLogin>2016-03-17T13:56:05.2604296-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">467</char>
+		</chars>
+		<addressList count="1">
+			<ip>174.16.51.18</ip>
+		</addressList>
+		<lastgameloginip>174.16.51.18</lastgameloginip>
+	</account>
+	<account>
+		<username>cadewinegar5</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-16T16:16:28.4635546-07:00</created>
+		<lastLogin>2016-03-17T13:55:50.9479296-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">480</char>
+		</chars>
+		<addressList count="1">
+			<ip>174.16.51.18</ip>
+		</addressList>
+		<lastgameloginip>174.16.51.18</lastgameloginip>
+	</account>
+	<account>
+		<username>cadewinegar6</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-16T16:18:28.0416796-07:00</created>
+		<lastLogin>2016-03-16T16:18:28.0416796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">502</char>
+		</chars>
+		<addressList count="1">
+			<ip>174.16.51.18</ip>
+		</addressList>
+		<lastgameloginip>174.16.51.18</lastgameloginip>
+	</account>
+	<account>
+		<username>cupcake</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-772444904</HardwareHash>
+		<created>2016-03-13T21:12:55.6666796-07:00</created>
+		<lastLogin>2016-03-17T14:15:44.8698046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">10267</char>
+			<char index="1">425</char>
+		</chars>
+		<addressList count="1">
+			<ip>65.190.56.107</ip>
+		</addressList>
+		<lastgameloginip>65.190.56.107</lastgameloginip>
+	</account>
+	<account>
+		<username>tmwfirm</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-14T18:05:58.9010546-07:00</created>
+		<lastLogin>2016-03-14T18:05:58.9010546-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">18543</char>
+		</chars>
+		<addressList count="1">
+			<ip>23.126.98.198</ip>
+		</addressList>
+		<lastgameloginip>23.126.98.198</lastgameloginip>
+	</account>
+	<account>
+		<username>cojito2</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1885617754</HardwareHash>
+		<created>2016-03-13T10:08:18.2418750-07:00</created>
+		<lastLogin>2016-03-17T16:05:22.0026171-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8490</char>
+		</chars>
+		<addressList count="1">
+			<ip>68.134.215.114</ip>
+		</addressList>
+		<lastgameloginip>68.134.215.114</lastgameloginip>
+	</account>
+	<account>
+		<username>Datacrypt2</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email>datacrypt@gmail.com</email>
+		<accountactivated>true</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1723482877</HardwareHash>
+		<created>2016-03-15T14:57:25.8385546-07:00</created>
+		<lastLogin>2016-03-17T16:39:09.8366015-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">27647</char>
+			<char index="1">1030</char>
+		</chars>
+		<addressList count="1">
+			<ip>24.16.89.53</ip>
+		</addressList>
+		<emailHistory>
+			<addr>datacrypt@gmail.com</addr>
+		</emailHistory>
+		<lastgameloginip>24.16.89.53</lastgameloginip>
+	</account>
+	<account>
+		<username>anrcist</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-15T09:51:36.4479296-07:00</created>
+		<lastLogin>2016-03-15T12:20:58.4323046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">27098</char>
+		</chars>
+		<addressList count="1">
+			<ip>70.189.128.26</ip>
+		</addressList>
+		<lastgameloginip>70.189.128.26</lastgameloginip>
+	</account>
+	<account>
+		<username>goku</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-15T21:36:21.7291796-07:00</created>
+		<lastLogin>2016-03-15T21:36:26.9010546-07:00</lastLogin>
+		<chars length="5" />
+		<addressList count="1">
+			<ip>65.190.56.107</ip>
+		</addressList>
+		<lastgameloginip>65.190.56.107</lastgameloginip>
+	</account>
+	<account>
+		<username>Luna</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>843994194</HardwareHash>
+		<created>2016-03-13T08:23:54.2262500-07:00</created>
+		<lastLogin>2016-03-16T21:45:25.6510546-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7451</char>
+		</chars>
+		<addressList count="2">
+			<ip>66.241.136.212</ip>
+			<ip>99.228.105.208</ip>
+		</addressList>
+		<lastgameloginip>66.241.136.212</lastgameloginip>
+	</account>
+	<account>
+		<username>Savory</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1576386301</HardwareHash>
+		<created>2016-03-13T15:00:45.4323046-07:00</created>
+		<lastLogin>2016-03-17T15:34:25.9010546-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9329</char>
+		</chars>
+		<addressList count="1">
+			<ip>99.228.105.208</ip>
+		</addressList>
+		<lastgameloginip>99.228.105.208</lastgameloginip>
+	</account>
+	<account>
+		<username>lowbudget</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-772444904</HardwareHash>
+		<created>2016-03-16T10:19:49.6354296-07:00</created>
+		<lastLogin>2016-03-16T10:55:40.1979296-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">3239</char>
+		</chars>
+		<addressList count="1">
+			<ip>65.190.56.107</ip>
+		</addressList>
+		<lastgameloginip>65.190.56.107</lastgameloginip>
+	</account>
+	<account>
+		<username>cadewinegar</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>667149999</HardwareHash>
+		<created>2016-03-13T07:13:14.8043750-07:00</created>
+		<lastLogin>2016-03-17T18:09:09.1774218-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7113</char>
+		</chars>
+		<addressList count="3">
+			<ip>209.248.88.35</ip>
+			<ip>174.16.51.18</ip>
+			<ip>184.96.126.83</ip>
+		</addressList>
+		<lastgameloginip>209.248.88.35</lastgameloginip>
+	</account>
+	<account>
+		<username>gf2000</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1374637439</HardwareHash>
+		<created>2016-03-14T14:44:27.7448046-07:00</created>
+		<lastLogin>2016-03-17T17:37:25.0817187-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">17845</char>
+			<char index="1">19157</char>
+			<char index="2">665</char>
+		</chars>
+		<addressList count="1">
+			<ip>99.189.186.132</ip>
+		</addressList>
+		<lastgameloginip>99.189.186.132</lastgameloginip>
+	</account>
+	<account>
+		<username>cousineau629</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-13T17:00:08.0260546-07:00</created>
+		<lastLogin>2016-03-13T17:00:08.0260546-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9645</char>
+		</chars>
+		<addressList count="1">
+			<ip>68.188.222.124</ip>
+		</addressList>
+		<lastgameloginip>68.188.222.124</lastgameloginip>
+	</account>
+	<account>
+		<username>piggieninja</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-111737967</HardwareHash>
+		<created>2016-03-13T08:47:14.5856250-07:00</created>
+		<lastLogin>2016-03-17T19:04:07.2272265-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7957</char>
+		</chars>
+		<comments>
+			<comment addedBy="AUDIT" lastModified="2016-03-16T11:30:21.9166796-07:00">HelpStuck Auto-Move exploit - Mobile in range</comment>
+		</comments>
+		<addressList count="1">
+			<ip>24.207.2.125</ip>
+		</addressList>
+		<lastgameloginip>24.207.2.125</lastgameloginip>
+	</account>
+	<account>
+		<username>viralcrafter</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1568131827</HardwareHash>
+		<created>2016-03-13T16:31:09.4479296-07:00</created>
+		<lastLogin>2016-03-17T18:19:26.5055468-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9562</char>
+			<char index="1">17658</char>
+		</chars>
+		<addressList count="1">
+			<ip>192.64.135.131</ip>
+		</addressList>
+		<lastgameloginip>192.64.135.131</lastgameloginip>
+	</account>
+	<account>
+		<username>Peanut</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-2133380210</HardwareHash>
+		<created>2016-03-13T13:41:09.3229296-07:00</created>
+		<lastLogin>2016-03-17T18:48:00.3395312-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9145</char>
+			<char index="1">9981</char>
+			<char index="2">9988</char>
+			<char index="3">10158</char>
+			<char index="4">16726</char>
+		</chars>
+		<addressList count="2">
+			<ip>108.14.183.47</ip>
+			<ip>108.14.184.97</ip>
+		</addressList>
+		<lastgameloginip>108.14.183.47</lastgameloginip>
+	</account>
+	<account>
+		<username>rdwdale3</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-15509038</HardwareHash>
+		<created>2016-03-13T10:20:21.9606250-07:00</created>
+		<lastLogin>2016-03-17T11:58:27.5729296-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8523</char>
+			<char index="1">611</char>
+		</chars>
+		<addressList count="4">
+			<ip>166.175.57.230</ip>
+			<ip>73.211.179.142</ip>
+			<ip>166.170.222.17</ip>
+			<ip>50.141.76.140</ip>
+		</addressList>
+		<lastgameloginip>166.175.57.230</lastgameloginip>
+	</account>
+	<account>
+		<username>rdwdale2</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-15509038</HardwareHash>
+		<created>2016-03-13T08:16:33.5231250-07:00</created>
+		<lastLogin>2016-03-15T20:41:31.5416796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7400</char>
+			<char index="1">18722</char>
+			<char index="2">620</char>
+		</chars>
+		<comments>
+			<comment addedBy="AUDIT" lastModified="2016-03-13T09:00:07.0075000-07:00">Possible through door or other blocking tile exploit.</comment>
+		</comments>
+		<addressList count="3">
+			<ip>73.211.179.142</ip>
+			<ip>166.170.222.17</ip>
+			<ip>50.141.76.140</ip>
+		</addressList>
+		<lastgameloginip>73.211.179.142</lastgameloginip>
+	</account>
+	<account>
+		<username>alliguie1</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1736294961</HardwareHash>
+		<created>2016-03-14T17:31:02.9948046-07:00</created>
+		<lastLogin>2016-03-14T17:46:44.1979296-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">18422</char>
+		</chars>
+		<addressList count="1">
+			<ip>50.186.9.235</ip>
+		</addressList>
+		<lastgameloginip>50.186.9.235</lastgameloginip>
+	</account>
+	<account>
+		<username>hexonagus</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-2006506905</HardwareHash>
+		<created>2016-03-13T08:00:09.9293750-07:00</created>
+		<lastLogin>2016-03-17T13:10:12.2916796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7107</char>
+			<char index="1">8179</char>
+		</chars>
+		<addressList count="1">
+			<ip>68.145.84.55</ip>
+		</addressList>
+		<lastgameloginip>68.145.84.55</lastgameloginip>
+	</account>
+	<account>
+		<username>fannybaws11</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>129428503</HardwareHash>
+		<created>2016-03-13T08:09:30.3200000-07:00</created>
+		<lastLogin>2016-03-17T18:20:15.4283984-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7239</char>
+			<char index="1">7533</char>
+			<char index="2">7933</char>
+			<char index="3">8502</char>
+			<char index="4">8508</char>
+		</chars>
+		<addressList count="1">
+			<ip>82.41.255.59</ip>
+		</addressList>
+		<lastgameloginip>82.41.255.59</lastgameloginip>
+	</account>
+	<account>
+		<username>warren</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-221581927</HardwareHash>
+		<created>2016-03-13T19:04:54.3541796-07:00</created>
+		<lastLogin>2016-03-16T18:02:38.5104296-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">10005</char>
+			<char index="1">1193</char>
+		</chars>
+		<addressList count="3">
+			<ip>73.211.179.142</ip>
+			<ip>50.141.76.140</ip>
+			<ip>50.141.77.133</ip>
+		</addressList>
+		<lastgameloginip>73.211.179.142</lastgameloginip>
+	</account>
+	<account>
+		<username>zaytri2</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email>zdash80@optonline.net</email>
+		<accountactivated>true</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>376585690</HardwareHash>
+		<created>2016-03-13T09:00:33.1168750-07:00</created>
+		<lastLogin>2016-03-17T17:16:55.3424609-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8085</char>
+		</chars>
+		<comments>
+			<comment addedBy="AUDIT" lastModified="2016-03-16T04:12:39.1510546-07:00">Possible through door or other blocking tile exploit.</comment>
+		</comments>
+		<addressList count="1">
+			<ip>100.33.42.147</ip>
+		</addressList>
+		<emailHistory>
+			<addr>zdash80@optonline.net</addr>
+		</emailHistory>
+		<lastgameloginip>100.33.42.147</lastgameloginip>
+	</account>
+	<account>
+		<username>damalar2</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>265101357</HardwareHash>
+		<created>2016-03-13T09:03:02.5075000-07:00</created>
+		<lastLogin>2016-03-13T13:09:13.9137500-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9008</char>
+		</chars>
+		<addressList count="1">
+			<ip>108.209.238.103</ip>
+		</addressList>
+		<lastgameloginip>108.209.238.103</lastgameloginip>
+	</account>
+	<account>
+		<username>snackeyboy</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-13T16:43:20.5885546-07:00</created>
+		<lastLogin>2016-03-16T10:30:04.2448046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9586</char>
+			<char index="1">9588</char>
+			<char index="2">763</char>
+		</chars>
+		<addressList count="3">
+			<ip>85.127.194.186</ip>
+			<ip>85.127.28.45</ip>
+			<ip>85.127.201.4</ip>
+		</addressList>
+		<lastgameloginip>85.127.194.186</lastgameloginip>
+	</account>
+	<account>
+		<username>snackeytwink</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>45371233</HardwareHash>
+		<created>2016-03-13T17:00:10.1041796-07:00</created>
+		<lastLogin>2016-03-17T12:29:00.9791796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9629</char>
+		</chars>
+		<addressList count="5">
+			<ip>77.119.128.208</ip>
+			<ip>85.127.194.186</ip>
+			<ip>77.119.131.29</ip>
+			<ip>80.110.95.109</ip>
+			<ip>85.127.28.45</ip>
+		</addressList>
+		<lastgameloginip>77.119.128.208</lastgameloginip>
+	</account>
+	<account>
+		<username>Pumpkin</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email>zaytri1234@yahoo.com</email>
+		<accountactivated>true</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1913887247</HardwareHash>
+		<created>2016-03-15T18:33:42.4166796-07:00</created>
+		<lastLogin>2016-03-17T17:28:48.0289843-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">13</char>
+			<char index="1">1740</char>
+		</chars>
+		<addressList count="1">
+			<ip>47.18.119.248</ip>
+		</addressList>
+		<emailHistory>
+			<addr>zaytri1234@yahoo.com</addr>
+		</emailHistory>
+		<lastgameloginip>47.18.119.248</lastgameloginip>
+	</account>
+	<account>
+		<username>beliallavi</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-704863541</HardwareHash>
+		<created>2016-03-14T19:34:15.2291796-07:00</created>
+		<lastLogin>2016-03-17T12:38:21.0260546-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">18795</char>
+		</chars>
+		<comments>
+			<comment addedBy="AUDIT" lastModified="2016-03-15T19:46:32.5885546-07:00">Possible through door or other blocking tile exploit.</comment>
+			<comment addedBy="AUDIT" lastModified="2016-03-15T19:46:41.6198046-07:00">Possible through door or other blocking tile exploit.</comment>
+			<comment addedBy="AUDIT" lastModified="2016-03-15T19:46:54.1979296-07:00">Possible through door or other blocking tile exploit.</comment>
+		</comments>
+		<addressList count="1">
+			<ip>67.160.130.116</ip>
+		</addressList>
+		<lastgameloginip>67.160.130.116</lastgameloginip>
+	</account>
+	<account>
+		<username>gf2016</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1374637439</HardwareHash>
+		<created>2016-03-14T11:58:46.2291796-07:00</created>
+		<lastLogin>2016-03-17T12:29:43.0416796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">17536</char>
+			<char index="1">496</char>
+		</chars>
+		<addressList count="1">
+			<ip>99.189.186.132</ip>
+		</addressList>
+		<lastgameloginip>99.189.186.132</lastgameloginip>
+	</account>
+	<account>
+		<username>chocolatesanta</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1882949380</HardwareHash>
+		<created>2016-03-17T03:12:53.7916796-07:00</created>
+		<lastLogin>2016-03-17T03:12:53.7916796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">3875</char>
+		</chars>
+		<addressList count="1">
+			<ip>76.114.34.169</ip>
+		</addressList>
+		<lastgameloginip>76.114.34.169</lastgameloginip>
+	</account>
+	<account>
+		<username>Alloio</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-13T17:08:37.1354296-07:00</created>
+		<lastLogin>2016-03-13T17:17:25.9479296-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9682</char>
+			<char index="1">9691</char>
+			<char index="2">9696</char>
+			<char index="3">9704</char>
+			<char index="4">9712</char>
+		</chars>
+		<addressList count="1">
+			<ip>195.154.128.163</ip>
+		</addressList>
+		<lastgameloginip>195.154.128.163</lastgameloginip>
+	</account>
+	<account>
+		<username>juliand</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1292805584</HardwareHash>
+		<created>2016-03-14T03:07:37.2448046-07:00</created>
+		<lastLogin>2016-03-14T03:08:49.3541796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">10888</char>
+		</chars>
+		<addressList count="1">
+			<ip>217.250.178.36</ip>
+		</addressList>
+		<lastgameloginip>217.250.178.36</lastgameloginip>
+	</account>
+	<account>
+		<username>cmille35</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email>cmille34@gmail.com</email>
+		<accountactivated>true</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>371081893</HardwareHash>
+		<created>2016-03-13T08:06:47.2575000-07:00</created>
+		<lastLogin>2016-03-17T18:05:21.9459765-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7375</char>
+			<char index="1">10048</char>
+			<char index="2">10056</char>
+			<char index="3">10068</char>
+			<char index="4">15546</char>
+		</chars>
+		<addressList count="1">
+			<ip>98.122.39.210</ip>
+		</addressList>
+		<emailHistory>
+			<addr>cmille34@gmail.com</addr>
+		</emailHistory>
+		<lastgameloginip>98.122.39.210</lastgameloginip>
+	</account>
+	<account>
+		<username>stuartt</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email>ss006e3412@rocketmail.com</email>
+		<accountactivated>true</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1534471568</HardwareHash>
+		<created>2016-03-16T07:28:52.7916796-07:00</created>
+		<lastLogin>2016-03-16T11:30:08.9166796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">2903</char>
+		</chars>
+		<addressList count="1">
+			<ip>188.222.234.40</ip>
+		</addressList>
+		<emailHistory>
+			<addr>ss006e3412@rocketmail.com</addr>
+		</emailHistory>
+		<lastgameloginip>188.222.234.40</lastgameloginip>
+	</account>
+	<account>
+		<username>AIorc420</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1406100318</HardwareHash>
+		<created>2016-03-13T11:16:02.6481250-07:00</created>
+		<lastLogin>2016-03-16T15:25:56.9791796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8722</char>
+		</chars>
+		<addressList count="1">
+			<ip>67.237.27.155</ip>
+		</addressList>
+		<lastgameloginip>67.237.27.155</lastgameloginip>
+	</account>
+	<account>
+		<username>Kalistar9362</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1021264864</HardwareHash>
+		<created>2016-03-13T17:48:32.1666796-07:00</created>
+		<lastLogin>2016-03-15T07:46:53.3073046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9836</char>
+		</chars>
+		<addressList count="2">
+			<ip>24.142.65.10</ip>
+			<ip>24.72.161.76</ip>
+		</addressList>
+		<lastgameloginip>24.142.65.10</lastgameloginip>
+	</account>
+	<account>
+		<username>gf1977</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1374637439</HardwareHash>
+		<created>2016-03-14T11:34:58.8854296-07:00</created>
+		<lastLogin>2016-03-15T18:57:16.8541796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">17481</char>
+		</chars>
+		<addressList count="1">
+			<ip>99.189.186.132</ip>
+		</addressList>
+		<lastgameloginip>99.189.186.132</lastgameloginip>
+	</account>
+	<account>
+		<username>damalar</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-2054172338</HardwareHash>
+		<created>2016-03-13T04:56:20.8825000-07:00</created>
+		<lastLogin>2016-03-13T08:49:12.8981250-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7913</char>
+		</chars>
+		<addressList count="1">
+			<ip>108.209.238.103</ip>
+		</addressList>
+		<lastgameloginip>108.209.238.103</lastgameloginip>
+	</account>
+	<account>
+		<username>Saru</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1583499735</HardwareHash>
+		<created>2016-03-13T21:23:38.6510546-07:00</created>
+		<lastLogin>2016-03-15T01:28:20.0573046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">10289</char>
+		</chars>
+		<addressList count="1">
+			<ip>58.88.91.84</ip>
+		</addressList>
+		<lastgameloginip>58.88.91.84</lastgameloginip>
+	</account>
+	<account>
+		<username>mookiller</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1568131827</HardwareHash>
+		<created>2016-03-13T05:32:47.3668750-07:00</created>
+		<lastLogin>2016-03-17T18:18:45.8698046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7147</char>
+		</chars>
+		<addressList count="1">
+			<ip>192.64.135.131</ip>
+		</addressList>
+		<lastgameloginip>192.64.135.131</lastgameloginip>
+	</account>
+	<account>
+		<username>loganloganlo</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>713898656</HardwareHash>
+		<created>2016-03-13T11:44:50.5075000-07:00</created>
+		<lastLogin>2016-03-17T09:42:44.4948046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8777</char>
+		</chars>
+		<addressList count="1">
+			<ip>216.66.13.154</ip>
+		</addressList>
+		<lastgameloginip>216.66.13.154</lastgameloginip>
+	</account>
+	<account>
+		<username>Asymmetry</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1351449838</HardwareHash>
+		<created>2016-03-16T22:25:08.8698046-07:00</created>
+		<lastLogin>2016-03-17T18:50:09.6715625-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">2778</char>
+		</chars>
+		<addressList count="1">
+			<ip>97.71.113.161</ip>
+		</addressList>
+		<lastgameloginip>97.71.113.161</lastgameloginip>
+	</account>
+	<account>
+		<username>Malaki3</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>689666309</HardwareHash>
+		<created>2016-03-13T08:02:57.2887500-07:00</created>
+		<lastLogin>2016-03-17T16:44:56.3825000-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7129</char>
+			<char index="1">1690</char>
+		</chars>
+		<addressList count="1">
+			<ip>73.74.198.53</ip>
+		</addressList>
+		<lastgameloginip>73.74.198.53</lastgameloginip>
+	</account>
+	<account>
+		<username>Malaki2</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>689666309</HardwareHash>
+		<created>2016-03-13T08:02:27.2262500-07:00</created>
+		<lastLogin>2016-03-17T20:06:33.5084765-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7104</char>
+			<char index="1">1633</char>
+		</chars>
+		<addressList count="1">
+			<ip>73.74.198.53</ip>
+		</addressList>
+		<lastgameloginip>73.74.198.53</lastgameloginip>
+	</account>
+	<account>
+		<username>logan1992</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>713898656</HardwareHash>
+		<created>2016-03-13T06:32:36.8668750-07:00</created>
+		<lastLogin>2016-03-17T04:04:14.3698046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8754</char>
+			<char index="1">17198</char>
+		</chars>
+		<addressList count="1">
+			<ip>216.66.13.154</ip>
+		</addressList>
+		<lastgameloginip>216.66.13.154</lastgameloginip>
+	</account>
+	<account>
+		<username>Ism</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1892126727</HardwareHash>
+		<created>2016-03-13T08:13:34.7106250-07:00</created>
+		<lastLogin>2016-03-17T17:44:48.8307421-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7377</char>
+			<char index="1">27682</char>
+			<char index="2">27695</char>
+			<char index="3">27709</char>
+			<char index="4">366</char>
+		</chars>
+		<comments>
+			<comment addedBy="AUDIT" lastModified="2016-03-17T18:42:34.6842578-07:00">Possible through door or other blocking tile exploit.</comment>
+			<comment addedBy="AUDIT" lastModified="2016-03-17T18:42:43.9967578-07:00">Possible through door or other blocking tile exploit.</comment>
+		</comments>
+		<addressList count="1">
+			<ip>75.168.167.104</ip>
+		</addressList>
+		<lastgameloginip>75.168.167.104</lastgameloginip>
+	</account>
+	<account>
+		<username>pezi</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1584722234</HardwareHash>
+		<created>2016-03-14T07:01:54.3073046-07:00</created>
+		<lastLogin>2016-03-17T16:08:38.6451953-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">17155</char>
+			<char index="1">26129</char>
+		</chars>
+		<addressList count="1">
+			<ip>77.102.166.109</ip>
+		</addressList>
+		<lastgameloginip>77.102.166.109</lastgameloginip>
+	</account>
+	<account>
+		<username>erlkonig1</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>628643867</HardwareHash>
+		<created>2016-03-13T08:05:14.0543750-07:00</created>
+		<lastLogin>2016-03-14T06:40:12.6823046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7157</char>
+			<char index="1">7537</char>
+			<char index="2">7550</char>
+			<char index="3">8134</char>
+		</chars>
+		<addressList count="1">
+			<ip>71.112.185.11</ip>
+		</addressList>
+		<lastgameloginip>71.112.185.11</lastgameloginip>
+	</account>
+	<account>
+		<username>grace101</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-480576618</HardwareHash>
+		<created>2016-03-13T11:57:24.6168750-07:00</created>
+		<lastLogin>2016-03-17T12:09:32.4010546-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8800</char>
+			<char index="1">9520</char>
+			<char index="2">18220</char>
+			<char index="3">3832</char>
+		</chars>
+		<addressList count="2">
+			<ip>23.16.188.96</ip>
+			<ip>75.155.178.184</ip>
+		</addressList>
+		<lastgameloginip>23.16.188.96</lastgameloginip>
+	</account>
+	<account>
+		<username>erlkonig2</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>628643867</HardwareHash>
+		<created>2016-03-13T08:10:53.2418750-07:00</created>
+		<lastLogin>2016-03-14T05:48:44.6510546-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7243</char>
+		</chars>
+		<addressList count="1">
+			<ip>71.112.185.11</ip>
+		</addressList>
+		<lastgameloginip>71.112.185.11</lastgameloginip>
+	</account>
+	<account>
+		<username>sbadger</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-822759669</HardwareHash>
+		<created>2016-03-13T12:33:54.0700000-07:00</created>
+		<lastLogin>2016-03-16T13:20:14.5260546-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9033</char>
+		</chars>
+		<addressList count="1">
+			<ip>188.221.61.27</ip>
+		</addressList>
+		<lastgameloginip>188.221.61.27</lastgameloginip>
+	</account>
+	<account>
+		<username>Kalistar93622</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1021264864</HardwareHash>
+		<created>2016-03-13T20:14:54.4948046-07:00</created>
+		<lastLogin>2016-03-14T10:06:30.8229296-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">10134</char>
+		</chars>
+		<addressList count="2">
+			<ip>24.142.65.10</ip>
+			<ip>24.72.161.76</ip>
+		</addressList>
+		<lastgameloginip>24.142.65.10</lastgameloginip>
+	</account>
+	<account>
+		<username>Naysayer</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1351449838</HardwareHash>
+		<created>2016-03-13T08:23:01.8200000-07:00</created>
+		<lastLogin>2016-03-17T18:34:00.2496875-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7462</char>
+		</chars>
+		<addressList count="1">
+			<ip>97.71.113.161</ip>
+		</addressList>
+		<lastgameloginip>97.71.113.161</lastgameloginip>
+	</account>
+	<account>
+		<username>Belle</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>843994194</HardwareHash>
+		<created>2016-03-13T09:34:23.3356250-07:00</created>
+		<lastLogin>2016-03-16T23:12:38.7135546-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8421</char>
+			<char index="1">3014</char>
+		</chars>
+		<addressList count="2">
+			<ip>66.241.136.212</ip>
+			<ip>99.228.105.208</ip>
+		</addressList>
+		<lastgameloginip>66.241.136.212</lastgameloginip>
+	</account>
+	<account>
+		<username>Frozen in Time</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-285185303</HardwareHash>
+		<created>2016-03-14T15:47:34.8073046-07:00</created>
+		<lastLogin>2016-03-16T21:46:26.6823046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">17991</char>
+		</chars>
+		<addressList count="1">
+			<ip>68.34.171.96</ip>
+		</addressList>
+		<lastgameloginip>68.34.171.96</lastgameloginip>
+	</account>
+	<account>
+		<username>RRrrrr</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-14T00:07:27.3229296-07:00</created>
+		<lastLogin>2016-03-14T00:07:27.3229296-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">10639</char>
+		</chars>
+		<addressList count="1">
+			<ip>71.15.106.149</ip>
+		</addressList>
+		<lastgameloginip>71.15.106.149</lastgameloginip>
+	</account>
+	<account>
+		<username>ain4</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1455884371</HardwareHash>
+		<created>2016-03-15T16:24:18.3698046-07:00</created>
+		<lastLogin>2016-03-15T16:32:46.4479296-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">27870</char>
+			<char index="1">27878</char>
+			<char index="2">27882</char>
+			<char index="3">27886</char>
+			<char index="4">27889</char>
+		</chars>
+		<addressList count="1">
+			<ip>73.41.64.68</ip>
+		</addressList>
+		<lastgameloginip>73.41.64.68</lastgameloginip>
+	</account>
+	<account>
+		<username>2nirvana2</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email>joelhawkins308@gmail.com</email>
+		<accountactivated>true</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>479847987</HardwareHash>
+		<created>2016-03-13T08:19:16.3043750-07:00</created>
+		<lastLogin>2016-03-17T16:38:16.4918750-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7436</char>
+		</chars>
+		<addressList count="1">
+			<ip>75.32.49.51</ip>
+		</addressList>
+		<emailHistory>
+			<addr>joelhawkins308@gmail.com</addr>
+		</emailHistory>
+		<lastgameloginip>75.32.49.51</lastgameloginip>
+	</account>
+	<account>
+		<username>Eternal Chaos</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-285185303</HardwareHash>
+		<created>2016-03-13T20:28:48.3073046-07:00</created>
+		<lastLogin>2016-03-16T21:26:18.0729296-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">17765</char>
+			<char index="1">17772</char>
+			<char index="2">17777</char>
+			<char index="3">17802</char>
+			<char index="4">17870</char>
+		</chars>
+		<addressList count="1">
+			<ip>68.34.171.96</ip>
+		</addressList>
+		<lastgameloginip>68.34.171.96</lastgameloginip>
+	</account>
+	<account>
+		<username>ain1</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1455884371</HardwareHash>
+		<created>2016-03-14T02:56:32.3541796-07:00</created>
+		<lastLogin>2016-03-16T15:40:49.4166796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">10865</char>
+		</chars>
+		<addressList count="1">
+			<ip>73.41.64.68</ip>
+		</addressList>
+		<lastgameloginip>73.41.64.68</lastgameloginip>
+	</account>
+	<account>
+		<username>ain2</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1455884371</HardwareHash>
+		<created>2016-03-14T03:00:20.8541796-07:00</created>
+		<lastLogin>2016-03-14T23:01:33.1666796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">10875</char>
+			<char index="1">19764</char>
+		</chars>
+		<addressList count="1">
+			<ip>73.41.64.68</ip>
+		</addressList>
+		<lastgameloginip>73.41.64.68</lastgameloginip>
+	</account>
+	<account>
+		<username>ain3</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1455884371</HardwareHash>
+		<created>2016-03-15T01:58:05.2291796-07:00</created>
+		<lastLogin>2016-03-15T01:58:05.2291796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">20397</char>
+		</chars>
+		<addressList count="1">
+			<ip>73.41.64.68</ip>
+		</addressList>
+		<lastgameloginip>73.41.64.68</lastgameloginip>
+	</account>
+	<account>
+		<username>dma635</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>404655796</HardwareHash>
+		<created>2016-03-14T15:06:13.7916796-07:00</created>
+		<lastLogin>2016-03-15T19:50:10.9323046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">17890</char>
+			<char index="1">368</char>
+		</chars>
+		<addressList count="1">
+			<ip>76.20.52.186</ip>
+		</addressList>
+		<lastgameloginip>76.20.52.186</lastgameloginip>
+	</account>
+	<account>
+		<username>cousineau627</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email>mikecousineau@hotmail.com</email>
+		<accountactivated>false</accountactivated>
+		<activationkey>1356DB1C</activationkey>
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1432368680</HardwareHash>
+		<created>2016-03-13T17:40:51.1510546-07:00</created>
+		<lastLogin>2016-03-15T20:09:25.9323046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9804</char>
+			<char index="1">19305</char>
+		</chars>
+		<addressList count="3">
+			<ip>161.57.164.93</ip>
+			<ip>68.188.222.124</ip>
+			<ip>161.57.164.87</ip>
+		</addressList>
+		<emailHistory>
+			<addr>mikecousineau@hotmail.com</addr>
+		</emailHistory>
+		<lastgameloginip>161.57.164.93</lastgameloginip>
+	</account>
+	<account>
+		<username>Cavedens</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>306027169</HardwareHash>
+		<created>2016-03-14T19:33:49.6354296-07:00</created>
+		<lastLogin>2016-03-15T09:47:38.9948046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">18793</char>
+		</chars>
+		<addressList count="1">
+			<ip>199.33.98.180</ip>
+		</addressList>
+		<lastgameloginip>199.33.98.180</lastgameloginip>
+	</account>
+	<account>
+		<username>snackey</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>45371233</HardwareHash>
+		<created>2016-03-13T15:51:03.3541796-07:00</created>
+		<lastLogin>2016-03-15T21:10:59.8854296-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9423</char>
+			<char index="1">772</char>
+		</chars>
+		<addressList count="2">
+			<ip>85.127.28.45</ip>
+			<ip>85.127.201.4</ip>
+		</addressList>
+		<lastgameloginip>85.127.28.45</lastgameloginip>
+	</account>
+	<account>
+		<username>P Anderson</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-13T15:07:20.7916796-07:00</created>
+		<lastLogin>2016-03-13T15:07:20.7916796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9293</char>
+		</chars>
+		<comments>
+			<comment addedBy="Adam Ant" lastModified="2016-03-13T16:27:57.6354296-07:00">3/13/2016 3:27:57 PM
+Tag count: 1
+Jailed for 12 hours. Reason: None</comment>
+		</comments>
+		<addressList count="1">
+			<ip>82.18.200.196</ip>
+		</addressList>
+		<lastgameloginip>82.18.200.196</lastgameloginip>
+	</account>
+	<account>
+		<username>Malaki</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>689666309</HardwareHash>
+		<created>2016-03-13T05:36:17.9606250-07:00</created>
+		<lastLogin>2016-03-17T16:44:38.5075000-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7103</char>
+			<char index="1">8461</char>
+			<char index="2">19913</char>
+			<char index="3">19921</char>
+			<char index="4">19934</char>
+		</chars>
+		<addressList count="1">
+			<ip>73.74.198.53</ip>
+		</addressList>
+		<lastgameloginip>73.74.198.53</lastgameloginip>
+	</account>
+	<account>
+		<username>ghino </username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-690114408</HardwareHash>
+		<created>2016-03-14T19:43:41.4635546-07:00</created>
+		<lastLogin>2016-03-14T19:46:21.8854296-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">18833</char>
+		</chars>
+		<addressList count="1">
+			<ip>98.216.117.28</ip>
+		</addressList>
+		<lastgameloginip>98.216.117.28</lastgameloginip>
+	</account>
+	<account>
+		<username>Ocirannor </username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1913887247</HardwareHash>
+		<created>2016-03-17T16:27:59.6559375-07:00</created>
+		<lastLogin>2016-03-17T16:28:05.8746875-07:00</lastLogin>
+		<chars length="5" />
+		<addressList count="1">
+			<ip>47.18.119.248</ip>
+		</addressList>
+		<lastgameloginip>47.18.119.248</lastgameloginip>
+	</account>
+	<account>
+		<username>Bithmus</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-559305748</HardwareHash>
+		<created>2016-03-13T19:53:14.1666796-07:00</created>
+		<lastLogin>2016-03-15T03:04:44.4323046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">10128</char>
+		</chars>
+		<addressList count="1">
+			<ip>64.53.213.164</ip>
+		</addressList>
+		<lastgameloginip>64.53.213.164</lastgameloginip>
+	</account>
+	<account>
+		<username>Rizzler</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-13T11:28:06.7575000-07:00</created>
+		<lastLogin>2016-03-13T11:36:47.8200000-07:00</lastLogin>
+		<chars length="5" />
+		<addressList count="1">
+			<ip>75.155.178.184</ip>
+		</addressList>
+		<lastgameloginip>75.155.178.184</lastgameloginip>
+	</account>
+	<account>
+		<username>Pumpkin </username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-715004403</HardwareHash>
+		<created>2016-03-14T18:21:05.0104296-07:00</created>
+		<lastLogin>2016-03-15T13:21:11.2916796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">18542</char>
+		</chars>
+		<addressList count="1">
+			<ip>47.18.119.248</ip>
+		</addressList>
+		<lastgameloginip>47.18.119.248</lastgameloginip>
+	</account>
+	<account>
+		<username>rigon</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-772444904</HardwareHash>
+		<created>2016-03-14T00:09:07.6354296-07:00</created>
+		<lastLogin>2016-03-15T21:19:24.0729296-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">804</char>
+		</chars>
+		<addressList count="1">
+			<ip>65.190.56.107</ip>
+		</addressList>
+		<lastgameloginip>65.190.56.107</lastgameloginip>
+	</account>
+	<account>
+		<username>lucanis</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email>luket@pacbell.net</email>
+		<accountactivated>true</accountactivated>
+		<activationkey>27EC8639</activationkey>
+		<resetpassword />
+		<resetpwdtime>2007-02-27T11:41:32.3755000-08:00</resetpwdtime>
+		<accessLevel>Owner</accessLevel>
+		<HardwareHash>-308614560</HardwareHash>
+		<created>2004-06-29T21:49:00.3000000-07:00</created>
+		<lastLogin>2016-03-23T17:44:51.0584520-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">23302</char>
+			<char index="1">12965</char>
+			<char index="3">5975</char>
+			<char index="4">24341</char>
+		</chars>
+		<comments>
+			<comment addedBy="Adam Ant" lastModified="2005-03-20T22:18:37.9008979-07:00">On 3/20/2005 9:18:37 PM, Adam Ant caught Lucan unattended macroing at 7° 44'S, 9° 0'E in the town of Britain : reported using the [macroer command</comment>
+			<comment addedBy="Adam Ant" lastModified="2005-07-12T16:56:16.4088750-07:00">On 7/12/2005 4:56:16 PM, Adam Ant caught raven unattended macroing at 4° 28'S, 19° 15'W : reported using the [macroer command</comment>
+			<comment addedBy="Adam Ant" lastModified="2005-07-14T19:35:54.2500000-07:00">On 7/14/2005 7:35:54 PM, Adam Ant caught Minor Guy unattended macroing at 7° 1'S, 18° 50'W : reported using the [macroer command</comment>
+			<comment addedBy="Adam Ant" lastModified="2005-07-16T10:37:12.0937500-07:00">On 7/16/2005 10:37:12 AM, Adam Ant caught Minor Guy unattended macroing at 24° 36'S, 18° 54'W : reported using the [macroer command</comment>
+			<comment addedBy="Adam Ant" lastModified="2005-07-16T11:35:45.7187500-07:00">On 7/16/2005 11:35:45 AM, Adam Ant caught Snibble unattended macroing at 140° 32'N, 77° 16'E : reported using the [macroer command</comment>
+			<comment addedBy="Jade" lastModified="2005-07-17T19:08:05.4499401-07:00">On 7/17/2005 7:08:05 PM, Jade caught Snibble unattended macroing at 140° 32'N, 77° 16'E : reported using the [macroer command</comment>
+			<comment addedBy="town crier" lastModified="2005-07-17T21:20:14.5124401-07:00">On 7/17/2005 9:20:14 PM, town crier caught Good Son unattended macroing at 14° 30'S, 15° 23'W in the town of Britain : reported using the [macroer command</comment>
+			<comment addedBy="town crier" lastModified="2005-07-18T20:02:08.8401250-07:00">On 7/18/2005 8:02:08 PM, town crier caught Good Son unattended macroing at 14° 30'S, 15° 23'W in the town of Britain : reported using the [macroer command</comment>
+			<comment addedBy="town crier" lastModified="2005-07-20T20:57:13.6057500-07:00">On 7/20/2005 8:57:13 PM, town crier caught Minor Guy unattended macroing at 24° 36'S, 18° 54'W : reported using the [macroer command</comment>
+			<comment addedBy="town crier" lastModified="2005-07-22T18:24:50.9495000-07:00">On 7/22/2005 6:24:50 PM, town crier caught Snibble unattended macroing at 31° 38'N, 2° 27'W : reported using the [macroer command</comment>
+			<comment addedBy="town crier" lastModified="2005-07-22T19:18:53.7151250-07:00">On 7/22/2005 7:18:53 PM, town crier caught Good Son unattended macroing at 140° 11'N, 73° 15'E : reported using the [macroer command</comment>
+			<comment addedBy="town crier" lastModified="2005-07-22T22:14:53.5745000-07:00">On 7/22/2005 10:14:53 PM, town crier caught Minor Guy unattended macroing at 136° 56'N, 82° 53'E : reported using the [macroer command</comment>
+			<comment addedBy="Seer Gilah" lastModified="2005-07-23T12:18:14.1370000-07:00">On 7/23/2005 12:18:14 PM, Seer Gilah caught Minor Guy unattended macroing at 137° 6'N, 84° 43'E : reported using the [macroer command</comment>
+			<comment addedBy="Adam Ant" lastModified="2005-08-24T14:17:25.2538296-07:00">On 8/24/2005 2:17:25 PM, Adam Ant caught Snibble unattended macroing at 31° 38'N, 2° 27'W : reported using the [macroer command</comment>
+			<comment addedBy="Adam Ant" lastModified="2005-08-29T19:25:29.3000000-07:00">On 8/29/2005 7:25:29 PM, Adam Ant caught Good Son unattended macroing at 124° 27'N, 76° 34'E : reported using the [macroer command</comment>
+			<comment addedBy="Adam Ant" lastModified="2005-09-01T12:12:15.0887500-07:00">On 9/1/2005 12:12:15 PM, Adam Ant caught Snibble unattended macroing at 31° 38'N, 2° 27'W : reported using the [macroer command</comment>
+			<comment addedBy="Adam Ant" lastModified="2005-09-01T20:22:37.4325000-07:00">On 9/1/2005 8:22:37 PM, Adam Ant caught Snibble unattended macroing at 30° 45'N, 3° 14'W : reported using the [macroer command</comment>
+			<comment addedBy="Adam Ant" lastModified="2009-01-23T08:39:14.4482500-08:00">1/23/2009 8:39:14 AM
+Tag count: 18
+Jailed for 216 hours. Reason: test</comment>
+		</comments>
+		<tags>
+			<tag name="BanDealer">0x13237 "Adam Ant"</tag>
+		</tags>
+		<addressList count="5">
+			<ip>127.0.0.1</ip>
+			<ip>76.21.71.203</ip>
+			<ip>12.107.176.9</ip>
+			<ip>24.130.108.240</ip>
+			<ip>24.130.111.127</ip>
+		</addressList>
+		<emailHistory>
+			<addr>luket@pacbell.net</addr>
+		</emailHistory>
+		<lastgameloginip>127.0.0.1</lastgameloginip>
+	</account>
+	<account>
+		<username>Kthx</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>843994194</HardwareHash>
+		<created>2016-03-13T18:43:04.6979296-07:00</created>
+		<lastLogin>2016-03-16T15:48:29.3073046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">10294</char>
+		</chars>
+		<addressList count="1">
+			<ip>99.228.105.208</ip>
+		</addressList>
+		<lastgameloginip>99.228.105.208</lastgameloginip>
+	</account>
+	<account>
+		<username>Querty</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-170308104</HardwareHash>
+		<created>2016-03-14T08:16:05.4791796-07:00</created>
+		<lastLogin>2016-03-17T18:45:10.2282031-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">17162</char>
+		</chars>
+		<addressList count="1">
+			<ip>71.83.64.21</ip>
+		</addressList>
+		<lastgameloginip>71.83.64.21</lastgameloginip>
+	</account>
+	<account>
+		<username>viralblade</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1568131827</HardwareHash>
+		<created>2016-03-13T08:26:58.7418750-07:00</created>
+		<lastLogin>2016-03-17T18:16:15.0992968-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7505</char>
+		</chars>
+		<addressList count="1">
+			<ip>192.64.135.131</ip>
+		</addressList>
+		<lastgameloginip>192.64.135.131</lastgameloginip>
+	</account>
+	<account>
+		<username>dosas</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-16T01:03:53.9948046-07:00</created>
+		<lastLogin>2016-03-16T01:04:35.9323046-07:00</lastLogin>
+		<chars length="5" />
+		<addressList count="1">
+			<ip>98.191.191.37</ip>
+		</addressList>
+		<lastgameloginip>98.191.191.37</lastgameloginip>
+	</account>
+	<account>
+		<username>Akasha</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>843994194</HardwareHash>
+		<created>2016-03-13T08:04:57.6481250-07:00</created>
+		<lastLogin>2016-03-17T08:27:23.3073046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7154</char>
+			<char index="1">1445</char>
+		</chars>
+		<addressList count="2">
+			<ip>99.228.105.208</ip>
+			<ip>66.241.136.212</ip>
+		</addressList>
+		<lastgameloginip>99.228.105.208</lastgameloginip>
+	</account>
+	<account>
+		<username>zachjr</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-14T20:55:17.7604296-07:00</created>
+		<lastLogin>2016-03-14T20:58:35.0260546-07:00</lastLogin>
+		<chars length="5" />
+		<addressList count="1">
+			<ip>135.26.10.198</ip>
+		</addressList>
+		<lastgameloginip>135.26.10.198</lastgameloginip>
+	</account>
+	<account>
+		<username>helmet</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-13T14:58:02.0416796-07:00</created>
+		<lastLogin>2016-03-13T14:58:02.0416796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9262</char>
+		</chars>
+		<addressList count="1">
+			<ip>73.240.255.75</ip>
+		</addressList>
+		<lastgameloginip>73.240.255.75</lastgameloginip>
+	</account>
+	<account>
+		<username>Peanuts</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-613824913</HardwareHash>
+		<created>2016-03-15T12:49:35.5885546-07:00</created>
+		<lastLogin>2016-03-15T12:49:35.5885546-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">27393</char>
+		</chars>
+		<addressList count="1">
+			<ip>24.57.122.149</ip>
+		</addressList>
+		<lastgameloginip>24.57.122.149</lastgameloginip>
+	</account>
+	<account>
+		<username>junser</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>2037889319</HardwareHash>
+		<created>2016-03-13T06:12:11.8356250-07:00</created>
+		<lastLogin>2016-03-16T17:46:04.1823046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9192</char>
+		</chars>
+		<addressList count="2">
+			<ip>24.213.243.34</ip>
+			<ip>67.248.183.209</ip>
+		</addressList>
+		<lastgameloginip>24.213.243.34</lastgameloginip>
+	</account>
+	<account>
+		<username>hexonagus2</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-2006506905</HardwareHash>
+		<created>2016-03-13T08:00:24.1637500-07:00</created>
+		<lastLogin>2016-03-17T14:34:57.1823046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7359</char>
+			<char index="1">3857</char>
+		</chars>
+		<addressList count="1">
+			<ip>68.145.84.55</ip>
+		</addressList>
+		<lastgameloginip>68.145.84.55</lastgameloginip>
+	</account>
+	<account>
+		<username>hexonagus3</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-2006506905</HardwareHash>
+		<created>2016-03-13T08:01:03.8825000-07:00</created>
+		<lastLogin>2016-03-17T07:48:18.4791796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7448</char>
+		</chars>
+		<addressList count="1">
+			<ip>68.145.84.55</ip>
+		</addressList>
+		<lastgameloginip>68.145.84.55</lastgameloginip>
+	</account>
+	<account>
+		<username>rdwdale</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1371084911</HardwareHash>
+		<created>2016-03-13T08:13:20.7887500-07:00</created>
+		<lastLogin>2016-03-17T20:53:49.1119921-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7368</char>
+		</chars>
+		<addressList count="5">
+			<ip>73.211.179.142</ip>
+			<ip>166.175.57.230</ip>
+			<ip>166.175.190.63</ip>
+			<ip>166.175.61.46</ip>
+			<ip>166.170.222.17</ip>
+		</addressList>
+		<lastgameloginip>73.211.179.142</lastgameloginip>
+	</account>
+	<account>
+		<username>Chaos Eternal</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1632674073</HardwareHash>
+		<created>2016-03-13T20:29:22.6666796-07:00</created>
+		<lastLogin>2016-03-16T21:26:02.2916796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">17597</char>
+			<char index="1">17603</char>
+			<char index="2">17610</char>
+			<char index="3">17636</char>
+			<char index="4">17930</char>
+		</chars>
+		<addressList count="1">
+			<ip>68.34.171.96</ip>
+		</addressList>
+		<lastgameloginip>68.34.171.96</lastgameloginip>
+	</account>
+	<account>
+		<username>veis driance</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1182369205</HardwareHash>
+		<created>2016-03-14T17:54:21.1823046-07:00</created>
+		<lastLogin>2016-03-15T17:45:44.7135546-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">18458</char>
+		</chars>
+		<addressList count="1">
+			<ip>67.244.44.121</ip>
+		</addressList>
+		<lastgameloginip>67.244.44.121</lastgameloginip>
+	</account>
+	<account>
+		<username>whitney</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>63735237</HardwareHash>
+		<created>2016-03-14T16:34:25.7448046-07:00</created>
+		<lastLogin>2016-03-17T16:25:21.5367968-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">18146</char>
+		</chars>
+		<addressList count="1">
+			<ip>24.181.208.233</ip>
+		</addressList>
+		<lastgameloginip>24.181.208.233</lastgameloginip>
+	</account>
+	<account>
+		<username>Shmogley</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email>ruc_cus@hotmail.com</email>
+		<accountactivated>true</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-19060594</HardwareHash>
+		<created>2016-03-15T20:33:57.4635546-07:00</created>
+		<lastLogin>2016-03-17T20:38:45.1295703-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">589</char>
+		</chars>
+		<addressList count="1">
+			<ip>174.114.219.170</ip>
+		</addressList>
+		<emailHistory>
+			<addr>ruc_cus@hotmail.com</addr>
+		</emailHistory>
+		<lastgameloginip>174.114.219.170</lastgameloginip>
+	</account>
+	<account>
+		<username>hyorva</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-16T01:29:35.0573046-07:00</created>
+		<lastLogin>2016-03-16T01:29:35.0573046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">1576</char>
+		</chars>
+		<addressList count="1">
+			<ip>125.177.206.170</ip>
+		</addressList>
+		<lastgameloginip>125.177.206.170</lastgameloginip>
+	</account>
+	<account>
+		<username>ssmetal</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>488847430</HardwareHash>
+		<created>2016-03-13T10:22:38.1012500-07:00</created>
+		<lastLogin>2016-03-17T19:34:51.0289843-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8551</char>
+			<char index="1">9050</char>
+			<char index="2">9117</char>
+			<char index="3">17729</char>
+		</chars>
+		<addressList count="1">
+			<ip>72.211.255.36</ip>
+		</addressList>
+		<lastgameloginip>72.211.255.36</lastgameloginip>
+	</account>
+	<account>
+		<username>lucan</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1092704715</HardwareHash>
+		<created>2016-03-06T10:17:34.4409814-08:00</created>
+		<lastLogin>2016-03-23T17:43:59.6484030-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">2</char>
+		</chars>
+		<addressList count="2">
+			<ip>127.0.0.1</ip>
+			<ip>76.21.71.203</ip>
+		</addressList>
+		<lastgameloginip>127.0.0.1</lastgameloginip>
+	</account>
+	<account>
+		<username>tmw</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1455507318</HardwareHash>
+		<created>2016-03-13T07:20:41.9606250-07:00</created>
+		<lastLogin>2016-03-17T20:05:55.0797656-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7150</char>
+			<char index="1">10117</char>
+		</chars>
+		<addressList count="1">
+			<ip>23.126.98.198</ip>
+		</addressList>
+		<lastgameloginip>23.126.98.198</lastgameloginip>
+	</account>
+	<account>
+		<username>superman</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-2079234844</HardwareHash>
+		<created>2016-03-15T22:50:20.2135546-07:00</created>
+		<lastLogin>2016-03-16T15:12:14.6354296-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">1137</char>
+		</chars>
+		<addressList count="1">
+			<ip>50.149.71.68</ip>
+		</addressList>
+		<lastgameloginip>50.149.71.68</lastgameloginip>
+	</account>
+	<account>
+		<username>cojito</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1885617754</HardwareHash>
+		<created>2016-03-13T08:35:46.3825000-07:00</created>
+		<lastLogin>2016-03-17T16:35:38.7594531-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7696</char>
+		</chars>
+		<addressList count="1">
+			<ip>68.134.215.114</ip>
+		</addressList>
+		<lastgameloginip>68.134.215.114</lastgameloginip>
+	</account>
+	<account>
+		<username>Ocirannor</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email>zaytri1234@yahoo.com</email>
+		<accountactivated>true</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1913887247</HardwareHash>
+		<created>2016-03-13T19:36:44.2916796-07:00</created>
+		<lastLogin>2016-03-17T20:37:46.4498828-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">10059</char>
+			<char index="1">1770</char>
+		</chars>
+		<comments>
+			<comment addedBy="AUDIT" lastModified="2016-03-15T08:03:02.6666796-07:00">Possible through door or other blocking tile exploit.</comment>
+			<comment addedBy="AUDIT" lastModified="2016-03-17T18:08:13.6862109-07:00">Possible through door or other blocking tile exploit.</comment>
+			<comment addedBy="AUDIT" lastModified="2016-03-17T18:08:14.5768359-07:00">Possible through door or other blocking tile exploit.</comment>
+		</comments>
+		<addressList count="1">
+			<ip>47.18.119.248</ip>
+		</addressList>
+		<emailHistory>
+			<addr>zaytri1234@yahoo.com</addr>
+		</emailHistory>
+		<lastgameloginip>47.18.119.248</lastgameloginip>
+	</account>
+	<account>
+		<username>andrere</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-14T19:48:21.9479296-07:00</created>
+		<lastLogin>2016-03-14T19:48:26.4791796-07:00</lastLogin>
+		<chars length="5" />
+		<addressList count="1">
+			<ip>98.216.117.28</ip>
+		</addressList>
+		<lastgameloginip>98.216.117.28</lastgameloginip>
+	</account>
+	<account>
+		<username>soydinc</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>2080219512</HardwareHash>
+		<created>2016-03-14T10:59:56.0885546-07:00</created>
+		<lastLogin>2016-03-17T19:23:13.5241015-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">17365</char>
+		</chars>
+		<addressList count="1">
+			<ip>108.0.88.21</ip>
+		</addressList>
+		<lastgameloginip>108.0.88.21</lastgameloginip>
+	</account>
+	<account>
+		<username>kalibah</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>2028533299</HardwareHash>
+		<created>2016-03-15T17:07:50.7135546-07:00</created>
+		<lastLogin>2016-03-15T17:07:50.7135546-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">27950</char>
+		</chars>
+		<addressList count="1">
+			<ip>24.207.134.54</ip>
+		</addressList>
+		<lastgameloginip>24.207.134.54</lastgameloginip>
+	</account>
+	<account>
+		<username>uopax</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-2135710935</HardwareHash>
+		<created>2016-03-17T18:10:20.4821093-07:00</created>
+		<lastLogin>2016-03-17T18:13:04.7643359-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">1194</char>
+		</chars>
+		<addressList count="1">
+			<ip>66.215.42.189</ip>
+		</addressList>
+		<lastgameloginip>66.215.42.189</lastgameloginip>
+	</account>
+	<account>
+		<username>Genocide</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1596623962</HardwareHash>
+		<created>2016-03-13T10:44:00.5387500-07:00</created>
+		<lastLogin>2016-03-15T09:07:41.9166796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8629</char>
+		</chars>
+		<addressList count="1">
+			<ip>98.167.124.107</ip>
+		</addressList>
+		<lastgameloginip>98.167.124.107</lastgameloginip>
+	</account>
+	<account>
+		<username>ebrown</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1624594923</HardwareHash>
+		<created>2016-03-13T12:03:51.8825000-07:00</created>
+		<lastLogin>2016-03-17T15:45:49.3414843-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8953</char>
+			<char index="1">1387</char>
+		</chars>
+		<addressList count="1">
+			<ip>75.72.114.218</ip>
+		</addressList>
+		<lastgameloginip>75.72.114.218</lastgameloginip>
+	</account>
+	<account>
+		<username>Browns</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-14T00:24:50.8541796-07:00</created>
+		<lastLogin>2016-03-14T00:24:50.8541796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">10655</char>
+		</chars>
+		<addressList count="1">
+			<ip>71.15.106.149</ip>
+		</addressList>
+		<lastgameloginip>71.15.106.149</lastgameloginip>
+	</account>
+	<account>
+		<username>AIchance420</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1406100318</HardwareHash>
+		<created>2016-03-13T09:12:54.4918750-07:00</created>
+		<lastLogin>2016-03-16T00:14:32.4791796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8283</char>
+		</chars>
+		<addressList count="1">
+			<ip>67.237.27.155</ip>
+		</addressList>
+		<lastgameloginip>67.237.27.155</lastgameloginip>
+	</account>
+	<account>
+		<username>vtpfirm</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-13T17:38:02.0104296-07:00</created>
+		<lastLogin>2016-03-13T20:02:38.9166796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9800</char>
+			<char index="1">10121</char>
+		</chars>
+		<addressList count="1">
+			<ip>23.126.98.198</ip>
+		</addressList>
+		<lastgameloginip>23.126.98.198</lastgameloginip>
+	</account>
+	<account>
+		<username>dosa3</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-947224720</HardwareHash>
+		<created>2016-03-13T09:37:06.3668750-07:00</created>
+		<lastLogin>2016-03-17T02:25:10.2291796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8436</char>
+			<char index="1">8445</char>
+			<char index="2">8447</char>
+			<char index="3">8452</char>
+			<char index="4">8455</char>
+		</chars>
+		<addressList count="1">
+			<ip>98.191.191.37</ip>
+		</addressList>
+		<lastgameloginip>98.191.191.37</lastgameloginip>
+	</account>
+	<account>
+		<username>dosa2</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-947224720</HardwareHash>
+		<created>2016-03-13T08:47:01.5075000-07:00</created>
+		<lastLogin>2016-03-17T02:24:17.4479296-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7906</char>
+			<char index="1">9268</char>
+			<char index="2">9271</char>
+			<char index="3">9273</char>
+			<char index="4">9278</char>
+		</chars>
+		<addressList count="1">
+			<ip>98.191.191.37</ip>
+		</addressList>
+		<lastgameloginip>98.191.191.37</lastgameloginip>
+	</account>
+	<account>
+		<username>turtle2</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-17T18:51:04.0192187-07:00</created>
+		<lastLogin>2016-03-17T18:56:56.2535937-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">1348</char>
+		</chars>
+		<addressList count="1">
+			<ip>76.103.124.37</ip>
+		</addressList>
+		<lastgameloginip>76.103.124.37</lastgameloginip>
+	</account>
+	<account>
+		<username>cyjax1</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1329787333</HardwareHash>
+		<created>2016-03-13T10:57:45.1325000-07:00</created>
+		<lastLogin>2016-03-15T19:10:35.7760546-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8730</char>
+			<char index="1">9019</char>
+			<char index="2">9023</char>
+			<char index="3">9027</char>
+			<char index="4">9031</char>
+		</chars>
+		<addressList count="1">
+			<ip>68.228.242.106</ip>
+		</addressList>
+		<lastgameloginip>68.228.242.106</lastgameloginip>
+	</account>
+	<account>
+		<username>rdwdal3</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-221581927</HardwareHash>
+		<created>2016-03-14T19:01:02.1979296-07:00</created>
+		<lastLogin>2016-03-14T19:01:08.3073046-07:00</lastLogin>
+		<chars length="5" />
+		<addressList count="1">
+			<ip>50.141.76.140</ip>
+		</addressList>
+		<lastgameloginip>50.141.76.140</lastgameloginip>
+	</account>
+	<account>
+		<username>gagalolo5</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-16T13:50:00.2604296-07:00</created>
+		<lastLogin>2016-03-16T13:50:00.2604296-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">519</char>
+		</chars>
+		<addressList count="1">
+			<ip>82.39.207.94</ip>
+		</addressList>
+		<lastgameloginip>82.39.207.94</lastgameloginip>
+	</account>
+	<account>
+		<username>alejo</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1141786</HardwareHash>
+		<created>2016-03-16T21:14:19.7448046-07:00</created>
+		<lastLogin>2016-03-16T21:16:04.0260546-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">1947</char>
+		</chars>
+		<addressList count="1">
+			<ip>65.74.115.114</ip>
+		</addressList>
+		<lastgameloginip>65.74.115.114</lastgameloginip>
+	</account>
+	<account>
+		<username>Samo1338</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-13T14:33:28.8073046-07:00</created>
+		<lastLogin>2016-03-13T14:33:28.8073046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9227</char>
+		</chars>
+		<addressList count="1">
+			<ip>71.114.40.166</ip>
+		</addressList>
+		<lastgameloginip>71.114.40.166</lastgameloginip>
+	</account>
+	<account>
+		<username>uopax2</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-17T18:18:00.0514453-07:00</created>
+		<lastLogin>2016-03-17T18:18:00.0514453-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">1215</char>
+		</chars>
+		<addressList count="1">
+			<ip>66.215.42.189</ip>
+		</addressList>
+		<lastgameloginip>66.215.42.189</lastgameloginip>
+	</account>
+	<account>
+		<username>zaytri</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email>zdash80@optonline.net</email>
+		<accountactivated>true</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>376585690</HardwareHash>
+		<created>2016-03-13T00:29:42.5312500-08:00</created>
+		<lastLogin>2016-03-17T17:23:16.6364062-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7865</char>
+			<char index="1">2188</char>
+		</chars>
+		<addressList count="1">
+			<ip>100.33.42.147</ip>
+		</addressList>
+		<emailHistory>
+			<addr>zdash80@optonline.net</addr>
+		</emailHistory>
+		<lastgameloginip>100.33.42.147</lastgameloginip>
+	</account>
+	<account>
+		<username>Automuryon</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-15T18:56:38.4791796-07:00</created>
+		<lastLogin>2016-03-15T18:56:38.4791796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">85</char>
+		</chars>
+		<addressList count="1">
+			<ip>72.201.190.196</ip>
+		</addressList>
+		<lastgameloginip>72.201.190.196</lastgameloginip>
+	</account>
+	<account>
+		<username>samo1337</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1907781366</HardwareHash>
+		<created>2016-03-13T12:37:10.1481250-07:00</created>
+		<lastLogin>2016-03-15T20:04:46.3073046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9189</char>
+		</chars>
+		<addressList count="1">
+			<ip>71.114.40.166</ip>
+		</addressList>
+		<lastgameloginip>71.114.40.166</lastgameloginip>
+	</account>
+	<account>
+		<username>fannybaws1</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>129428503</HardwareHash>
+		<created>2016-03-13T08:06:55.3825000-07:00</created>
+		<lastLogin>2016-03-17T18:17:58.8326953-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7170</char>
+			<char index="1">7520</char>
+			<char index="2">8487</char>
+			<char index="3">8493</char>
+			<char index="4">8497</char>
+		</chars>
+		<comments>
+			<comment addedBy="AUDIT" lastModified="2016-03-13T11:25:39.4606250-07:00">HelpStuck Auto-Move exploit - Mobile in range</comment>
+			<comment addedBy="AUDIT" lastModified="2016-03-13T11:27:16.4137500-07:00">HelpStuck Auto-Move exploit - Mobile in range</comment>
+			<comment addedBy="AUDIT" lastModified="2016-03-13T11:42:00.1481250-07:00">HelpStuck Auto-Move exploit - Mobile in range</comment>
+			<comment addedBy="AUDIT" lastModified="2016-03-13T12:03:08.4137500-07:00">HelpStuck Auto-Move exploit - Mobile in range</comment>
+			<comment addedBy="AUDIT" lastModified="2016-03-13T12:11:30.1481250-07:00">HelpStuck Auto-Move exploit - Mobile in range</comment>
+		</comments>
+		<addressList count="1">
+			<ip>82.41.255.59</ip>
+		</addressList>
+		<lastgameloginip>82.41.255.59</lastgameloginip>
+	</account>
+	<account>
+		<username>Phyxion</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email>tragics@gmail.com</email>
+		<accountactivated>false</accountactivated>
+		<activationkey>9EFCE4D7</activationkey>
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>145421167</HardwareHash>
+		<created>2016-03-13T11:19:22.8356250-07:00</created>
+		<lastLogin>2016-03-13T11:43:47.6950000-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8727</char>
+		</chars>
+		<addressList count="1">
+			<ip>83.34.69.50</ip>
+		</addressList>
+		<emailHistory>
+			<addr>tragics@gmail.com</addr>
+		</emailHistory>
+		<lastgameloginip>83.34.69.50</lastgameloginip>
+	</account>
+	<account>
+		<username>Ism3</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1892126727</HardwareHash>
+		<created>2016-03-13T11:37:17.4137500-07:00</created>
+		<lastLogin>2016-03-17T17:28:12.2623828-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8757</char>
+			<char index="1">8935</char>
+			<char index="2">8988</char>
+			<char index="3">9324</char>
+			<char index="4">20337</char>
+		</chars>
+		<addressList count="1">
+			<ip>75.168.167.104</ip>
+		</addressList>
+		<lastgameloginip>75.168.167.104</lastgameloginip>
+	</account>
+	<account>
+		<username>Ism2</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1892126727</HardwareHash>
+		<created>2016-03-13T10:29:14.4762500-07:00</created>
+		<lastLogin>2016-03-17T13:01:08.5729296-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8581</char>
+			<char index="1">9084</char>
+			<char index="2">9615</char>
+			<char index="3">15</char>
+			<char index="4">3859</char>
+		</chars>
+		<addressList count="1">
+			<ip>75.168.167.104</ip>
+		</addressList>
+		<lastgameloginip>75.168.167.104</lastgameloginip>
+	</account>
+	<account>
+		<username>girmlukh</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>96335621</HardwareHash>
+		<created>2016-03-16T23:17:52.9323046-07:00</created>
+		<lastLogin>2016-03-16T23:17:57.0416796-07:00</lastLogin>
+		<chars length="5" />
+		<addressList count="1">
+			<ip>50.149.71.68</ip>
+		</addressList>
+		<lastgameloginip>50.149.71.68</lastgameloginip>
+	</account>
+	<account>
+		<username>Bagugh</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-415475059</HardwareHash>
+		<created>2016-03-13T18:30:23.0104296-07:00</created>
+		<lastLogin>2016-03-13T18:42:04.3854296-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9973</char>
+		</chars>
+		<addressList count="1">
+			<ip>195.154.128.163</ip>
+		</addressList>
+		<lastgameloginip>195.154.128.163</lastgameloginip>
+	</account>
+	<account>
+		<username>Froste</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-374966778</HardwareHash>
+		<created>2016-03-17T14:18:10.5260546-07:00</created>
+		<lastLogin>2016-03-17T14:21:05.9166796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">414</char>
+		</chars>
+		<addressList count="1">
+			<ip>50.135.99.22</ip>
+		</addressList>
+		<lastgameloginip>50.135.99.22</lastgameloginip>
+	</account>
+	<account>
+		<username>Datacrypt1</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email>datacrypt@gmail.com</email>
+		<accountactivated>true</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1723482877</HardwareHash>
+		<created>2016-03-15T14:53:09.7448046-07:00</created>
+		<lastLogin>2016-03-17T17:53:41.4713671-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">27641</char>
+			<char index="1">1140</char>
+		</chars>
+		<addressList count="1">
+			<ip>24.16.89.53</ip>
+		</addressList>
+		<emailHistory>
+			<addr>datacrypt@gmail.com</addr>
+		</emailHistory>
+		<lastgameloginip>24.16.89.53</lastgameloginip>
+	</account>
+	<account>
+		<username>erlkonig</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>628643867</HardwareHash>
+		<created>2016-03-13T05:23:43.5075000-07:00</created>
+		<lastLogin>2016-03-13T13:41:15.7135546-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7139</char>
+			<char index="1">7517</char>
+		</chars>
+		<addressList count="1">
+			<ip>71.112.185.11</ip>
+		</addressList>
+		<lastgameloginip>71.112.185.11</lastgameloginip>
+	</account>
+	<account>
+		<username>Remb</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email>bdogit@yahoo.com</email>
+		<accountactivated>false</accountactivated>
+		<activationkey>1B7FB6D5</activationkey>
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-415475059</HardwareHash>
+		<created>2016-03-13T11:21:33.1950000-07:00</created>
+		<lastLogin>2016-03-17T15:29:03.7135546-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8731</char>
+		</chars>
+		<addressList count="2">
+			<ip>71.15.106.149</ip>
+			<ip>195.154.128.163</ip>
+		</addressList>
+		<emailHistory>
+			<addr>bdogit@yahoo.com</addr>
+		</emailHistory>
+		<lastgameloginip>71.15.106.149</lastgameloginip>
+	</account>
+	<account>
+		<username>Thrand</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>39235597</HardwareHash>
+		<created>2016-03-14T10:00:34.5416796-07:00</created>
+		<lastLogin>2016-03-15T07:16:35.1979296-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">17243</char>
+			<char index="1">26804</char>
+		</chars>
+		<addressList count="1">
+			<ip>47.55.208.198</ip>
+		</addressList>
+		<lastgameloginip>47.55.208.198</lastgameloginip>
+	</account>
+	<account>
+		<username>Meathead007</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-170308104</HardwareHash>
+		<created>2016-03-13T15:27:21.8073046-07:00</created>
+		<lastLogin>2016-03-17T15:17:37.0260546-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9346</char>
+			<char index="1">18553</char>
+			<char index="2">18557</char>
+			<char index="3">18561</char>
+			<char index="4">18565</char>
+		</chars>
+		<addressList count="1">
+			<ip>71.83.64.21</ip>
+		</addressList>
+		<lastgameloginip>71.83.64.21</lastgameloginip>
+	</account>
+	<account>
+		<username>Rembrand</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-415475059</HardwareHash>
+		<created>2016-03-13T16:45:58.8698046-07:00</created>
+		<lastLogin>2016-03-17T04:21:32.3073046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">218</char>
+			<char index="1">381</char>
+		</chars>
+		<addressList count="2">
+			<ip>71.15.106.149</ip>
+			<ip>195.154.128.163</ip>
+		</addressList>
+		<lastgameloginip>71.15.106.149</lastgameloginip>
+	</account>
+	<account>
+		<username>Rembran</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-415475059</HardwareHash>
+		<created>2016-03-13T11:11:10.3200000-07:00</created>
+		<lastLogin>2016-03-17T04:04:18.6510546-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8714</char>
+		</chars>
+		<addressList count="2">
+			<ip>71.15.106.149</ip>
+			<ip>195.154.128.163</ip>
+		</addressList>
+		<lastgameloginip>71.15.106.149</lastgameloginip>
+	</account>
+	<account>
+		<username>kocksna</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-15T02:53:35.0573046-07:00</created>
+		<lastLogin>2016-03-15T02:56:22.1198046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">20565</char>
+		</chars>
+		<addressList count="1">
+			<ip>79.161.150.26</ip>
+		</addressList>
+		<lastgameloginip>79.161.150.26</lastgameloginip>
+	</account>
+	<account>
+		<username>nightblueshade</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1885617754</HardwareHash>
+		<created>2016-03-13T08:37:24.1325000-07:00</created>
+		<lastLogin>2016-03-17T19:05:40.9244921-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7710</char>
+		</chars>
+		<addressList count="2">
+			<ip>68.134.215.114</ip>
+			<ip>71.59.133.78</ip>
+		</addressList>
+		<lastgameloginip>68.134.215.114</lastgameloginip>
+	</account>
+	<account>
+		<username>Rubtug</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-600124377</HardwareHash>
+		<created>2016-03-15T17:31:11.8698046-07:00</created>
+		<lastLogin>2016-03-17T03:54:39.6823046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">28027</char>
+		</chars>
+		<addressList count="1">
+			<ip>108.218.144.146</ip>
+		</addressList>
+		<lastgameloginip>108.218.144.146</lastgameloginip>
+	</account>
+	<account>
+		<username>Remy</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-415475059</HardwareHash>
+		<created>2016-03-13T16:44:37.2760546-07:00</created>
+		<lastLogin>2016-03-13T17:05:55.9791796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9609</char>
+			<char index="1">9620</char>
+			<char index="2">9628</char>
+			<char index="3">9650</char>
+			<char index="4">9672</char>
+		</chars>
+		<addressList count="1">
+			<ip>195.154.128.163</ip>
+		</addressList>
+		<lastgameloginip>195.154.128.163</lastgameloginip>
+	</account>
+	<account>
+		<username>Viralbalde</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1568131827</HardwareHash>
+		<created>2016-03-17T18:15:52.5836718-07:00</created>
+		<lastLogin>2016-03-17T18:16:04.5992968-07:00</lastLogin>
+		<chars length="5" />
+		<addressList count="1">
+			<ip>192.64.135.131</ip>
+		</addressList>
+		<lastgameloginip>192.64.135.131</lastgameloginip>
+	</account>
+	<account>
+		<username>Naysayer2</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1351449838</HardwareHash>
+		<created>2016-03-13T08:55:37.1168750-07:00</created>
+		<lastLogin>2016-03-17T18:42:19.5182421-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7995</char>
+			<char index="1">10034</char>
+			<char index="2">10054</char>
+			<char index="3">19716</char>
+		</chars>
+		<addressList count="1">
+			<ip>97.71.113.161</ip>
+		</addressList>
+		<lastgameloginip>97.71.113.161</lastgameloginip>
+	</account>
+	<account>
+		<username>Moomba</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-2133380210</HardwareHash>
+		<created>2016-03-13T20:45:33.5573046-07:00</created>
+		<lastLogin>2016-03-17T17:58:26.8463671-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">10219</char>
+			<char index="1">96</char>
+		</chars>
+		<addressList count="2">
+			<ip>108.14.183.47</ip>
+			<ip>108.14.184.97</ip>
+		</addressList>
+		<lastgameloginip>108.14.183.47</lastgameloginip>
+	</account>
+	<account>
+		<username>ghino</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1312753466</HardwareHash>
+		<created>2016-03-14T18:40:27.9323046-07:00</created>
+		<lastLogin>2016-03-14T19:47:38.6041796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">18638</char>
+		</chars>
+		<addressList count="1">
+			<ip>98.216.117.28</ip>
+		</addressList>
+		<lastgameloginip>98.216.117.28</lastgameloginip>
+	</account>
+	<account>
+		<username>damalar1</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>265101357</HardwareHash>
+		<created>2016-03-13T08:59:47.8200000-07:00</created>
+		<lastLogin>2016-03-13T13:09:20.4606250-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8077</char>
+		</chars>
+		<addressList count="1">
+			<ip>108.209.238.103</ip>
+		</addressList>
+		<lastgameloginip>108.209.238.103</lastgameloginip>
+	</account>
+	<account>
+		<username>AIkris420</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1406100318</HardwareHash>
+		<created>2016-03-13T11:00:15.7887500-07:00</created>
+		<lastLogin>2016-03-16T15:30:22.1979296-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8690</char>
+			<char index="1">8762</char>
+			<char index="2">8767</char>
+		</chars>
+		<addressList count="1">
+			<ip>67.237.27.155</ip>
+		</addressList>
+		<lastgameloginip>67.237.27.155</lastgameloginip>
+	</account>
+	<account>
+		<username>rigon4</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-15T21:27:18.9791796-07:00</created>
+		<lastLogin>2016-03-15T21:27:18.9791796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">833</char>
+		</chars>
+		<addressList count="1">
+			<ip>65.190.56.107</ip>
+		</addressList>
+		<lastgameloginip>65.190.56.107</lastgameloginip>
+	</account>
+	<account>
+		<username>dosa</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-947224720</HardwareHash>
+		<created>2016-03-13T08:21:41.1637500-07:00</created>
+		<lastLogin>2016-03-17T16:58:17.3131640-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7878</char>
+			<char index="1">18593</char>
+			<char index="2">18595</char>
+			<char index="3">18599</char>
+			<char index="4">18607</char>
+		</chars>
+		<addressList count="1">
+			<ip>98.191.191.37</ip>
+		</addressList>
+		<lastgameloginip>98.191.191.37</lastgameloginip>
+	</account>
+	<account>
+		<username>dalamage</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-2086599809</HardwareHash>
+		<created>2016-03-15T15:53:15.2760546-07:00</created>
+		<lastLogin>2016-03-17T11:50:55.9010546-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">487</char>
+		</chars>
+		<addressList count="2">
+			<ip>67.4.243.10</ip>
+			<ip>172.56.35.204</ip>
+		</addressList>
+		<lastgameloginip>67.4.243.10</lastgameloginip>
+	</account>
+	<account>
+		<username>whitneyam</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-15T04:05:30.4479296-07:00</created>
+		<lastLogin>2016-03-15T04:05:30.4479296-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">20861</char>
+		</chars>
+		<addressList count="1">
+			<ip>24.181.208.233</ip>
+		</addressList>
+		<lastgameloginip>24.181.208.233</lastgameloginip>
+	</account>
+	<account>
+		<username>whitneyal</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-15T04:03:28.9166796-07:00</created>
+		<lastLogin>2016-03-15T04:03:28.9166796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">20854</char>
+		</chars>
+		<addressList count="1">
+			<ip>24.181.208.233</ip>
+		</addressList>
+		<lastgameloginip>24.181.208.233</lastgameloginip>
+	</account>
+	<account>
+		<username>Adam Ant</username>
+		<cryptPassword>3E-67-00-E2-A3-19-E5-ED-6B-59-31-AB-4B-10-1D-65</cryptPassword>
+		<email>ouo@game-master.net</email>
+		<accountactivated>true</accountactivated>
+		<activationkey>81918076</activationkey>
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<accessLevel>Owner</accessLevel>
+		<HardwareHash>-308614560</HardwareHash>
+		<created>2004-03-07T19:37:32.6562394-08:00</created>
+		<lastLogin>2016-03-23T17:53:26.8349976-07:00</lastLogin>
+		<chars length="5">
+			<char index="1">78391</char>
+		</chars>
+		<addressList count="5">
+			<ip>127.0.0.1</ip>
+			<ip>76.21.71.203</ip>
+			<ip>67.164.60.197</ip>
+			<ip>24.130.154.21</ip>
+			<ip>24.130.108.240</ip>
+		</addressList>
+		<emailHistory>
+			<addr>ouo@game-master.net</addr>
+		</emailHistory>
+		<lastgameloginip>127.0.0.1</lastgameloginip>
+	</account>
+	<account>
+		<username>audix</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1596623962</HardwareHash>
+		<created>2016-03-13T10:52:39.3512500-07:00</created>
+		<lastLogin>2016-03-17T20:43:41.6051562-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8668</char>
+			<char index="1">257</char>
+		</chars>
+		<addressList count="1">
+			<ip>98.167.124.107</ip>
+		</addressList>
+		<lastgameloginip>98.167.124.107</lastgameloginip>
+	</account>
+	<account>
+		<username>cmille36</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email>cmille34@gmail.com</email>
+		<accountactivated>true</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>371081893</HardwareHash>
+		<created>2016-03-13T09:23:42.8200000-07:00</created>
+		<lastLogin>2016-03-17T16:18:36.8893359-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8337</char>
+			<char index="1">10076</char>
+			<char index="2">10081</char>
+			<char index="3">10096</char>
+			<char index="4">10108</char>
+		</chars>
+		<addressList count="1">
+			<ip>98.122.39.210</ip>
+		</addressList>
+		<emailHistory>
+			<addr>cmille34@gmail.com</addr>
+		</emailHistory>
+		<lastgameloginip>98.122.39.210</lastgameloginip>
+	</account>
+	<account>
+		<username>fannybaws</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>129428503</HardwareHash>
+		<created>2016-03-13T08:02:26.3043750-07:00</created>
+		<lastLogin>2016-03-17T18:23:24.5944140-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7114</char>
+			<char index="1">7482</char>
+			<char index="2">7617</char>
+			<char index="3">7879</char>
+			<char index="4">8513</char>
+		</chars>
+		<addressList count="1">
+			<ip>82.41.255.59</ip>
+		</addressList>
+		<lastgameloginip>82.41.255.59</lastgameloginip>
+	</account>
+	<account>
+		<username>cmille34</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email>cmille34@gmail.com</email>
+		<accountactivated>true</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>371081893</HardwareHash>
+		<created>2016-03-13T05:35:08.1481250-07:00</created>
+		<lastLogin>2016-03-17T18:39:16.6539843-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7142</char>
+			<char index="1">1297</char>
+		</chars>
+		<addressList count="1">
+			<ip>98.122.39.210</ip>
+		</addressList>
+		<emailHistory>
+			<addr>cmille34@gmail.com</addr>
+		</emailHistory>
+		<lastgameloginip>98.122.39.210</lastgameloginip>
+	</account>
+	<account>
+		<username>nohouse</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-16T07:13:25.8698046-07:00</created>
+		<lastLogin>2016-03-16T07:13:25.8698046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">2878</char>
+		</chars>
+		<addressList count="1">
+			<ip>76.21.71.203</ip>
+		</addressList>
+		<lastgameloginip>76.21.71.203</lastgameloginip>
+	</account>
+	<account>
+		<username>morg</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1455507318</HardwareHash>
+		<created>2016-03-13T09:40:42.9137500-07:00</created>
+		<lastLogin>2016-03-17T20:13:40.7457812-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8435</char>
+			<char index="1">8656</char>
+			<char index="2">8943</char>
+			<char index="3">9108</char>
+			<char index="4">10009</char>
+		</chars>
+		<addressList count="1">
+			<ip>23.126.98.198</ip>
+		</addressList>
+		<lastgameloginip>23.126.98.198</lastgameloginip>
+	</account>
+	<account>
+		<username>Bloodlegacy</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-285185303</HardwareHash>
+		<created>2016-03-13T20:27:57.5729296-07:00</created>
+		<lastLogin>2016-03-16T21:25:42.7291796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">10162</char>
+			<char index="1">10303</char>
+			<char index="2">10307</char>
+			<char index="3">10312</char>
+			<char index="4">10331</char>
+		</chars>
+		<addressList count="1">
+			<ip>68.34.171.96</ip>
+		</addressList>
+		<lastgameloginip>68.34.171.96</lastgameloginip>
+	</account>
+	<account>
+		<username>virindi1</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-343901023</HardwareHash>
+		<created>2016-03-13T13:56:37.1510546-07:00</created>
+		<lastLogin>2016-03-13T13:58:56.0104296-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9162</char>
+		</chars>
+		<addressList count="1">
+			<ip>64.30.112.221</ip>
+		</addressList>
+		<lastgameloginip>64.30.112.221</lastgameloginip>
+	</account>
+	<account>
+		<username>Aikazi</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1021264864</HardwareHash>
+		<created>2016-03-14T12:35:19.8073046-07:00</created>
+		<lastLogin>2016-03-15T08:58:31.6979296-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">17604</char>
+		</chars>
+		<addressList count="1">
+			<ip>24.142.65.10</ip>
+		</addressList>
+		<lastgameloginip>24.142.65.10</lastgameloginip>
+	</account>
+	<account>
+		<username>zycor</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-772444904</HardwareHash>
+		<created>2016-03-13T22:25:06.6823046-07:00</created>
+		<lastLogin>2016-03-17T17:01:06.8453906-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">10406</char>
+			<char index="1">915</char>
+		</chars>
+		<addressList count="1">
+			<ip>65.190.56.107</ip>
+		</addressList>
+		<lastgameloginip>65.190.56.107</lastgameloginip>
+	</account>
+	<account>
+		<username>ShamroCk</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1194852955</HardwareHash>
+		<created>2016-03-13T12:00:05.8512500-07:00</created>
+		<lastLogin>2016-03-13T12:00:05.8512500-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8817</char>
+		</chars>
+		<addressList count="1">
+			<ip>72.42.185.113</ip>
+		</addressList>
+		<lastgameloginip>72.42.185.113</lastgameloginip>
+	</account>
+	<account>
+		<username>admin</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-13T13:56:39.0416796-07:00</created>
+		<lastLogin>2016-03-13T13:56:42.6979296-07:00</lastLogin>
+		<chars length="5" />
+		<addressList count="1">
+			<ip>71.112.185.11</ip>
+		</addressList>
+		<lastgameloginip>71.112.185.11</lastgameloginip>
+	</account>
+	<account>
+		<username>cliffo</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-2115004397</HardwareHash>
+		<created>2016-03-16T17:14:17.1979296-07:00</created>
+		<lastLogin>2016-03-16T17:14:17.1979296-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">887</char>
+		</chars>
+		<addressList count="1">
+			<ip>24.66.246.123</ip>
+		</addressList>
+		<lastgameloginip>24.66.246.123</lastgameloginip>
+	</account>
+	<account>
+		<username>villain</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>695424651</HardwareHash>
+		<created>2016-03-13T11:48:57.3512500-07:00</created>
+		<lastLogin>2016-03-13T11:48:57.3512500-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8773</char>
+		</chars>
+		<addressList count="1">
+			<ip>206.226.72.146</ip>
+		</addressList>
+		<lastgameloginip>206.226.72.146</lastgameloginip>
+	</account>
+	<account>
+		<username>rigon3</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-15T21:24:14.8073046-07:00</created>
+		<lastLogin>2016-03-15T21:24:14.8073046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">808</char>
+		</chars>
+		<addressList count="1">
+			<ip>65.190.56.107</ip>
+		</addressList>
+		<lastgameloginip>65.190.56.107</lastgameloginip>
+	</account>
+	<account>
+		<username>Bungu</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1865599850</HardwareHash>
+		<created>2016-03-13T13:07:24.9450000-07:00</created>
+		<lastLogin>2016-03-13T13:07:24.9450000-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9114</char>
+		</chars>
+		<addressList count="1">
+			<ip>108.14.184.97</ip>
+		</addressList>
+		<lastgameloginip>108.14.184.97</lastgameloginip>
+	</account>
+	<account>
+		<username>dragonite</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-772444904</HardwareHash>
+		<created>2016-03-13T21:49:54.5729296-07:00</created>
+		<lastLogin>2016-03-17T13:19:27.0416796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">10325</char>
+			<char index="1">851</char>
+		</chars>
+		<comments>
+			<comment addedBy="AUDIT" lastModified="2016-03-15T22:53:41.6198046-07:00">HelpStuck Auto-Move exploit - Mobile in range</comment>
+		</comments>
+		<addressList count="1">
+			<ip>65.190.56.107</ip>
+		</addressList>
+		<lastgameloginip>65.190.56.107</lastgameloginip>
+	</account>
+	<account>
+		<username>hapidragons</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-13T19:46:06.7448046-07:00</created>
+		<lastLogin>2016-03-13T19:46:10.3854296-07:00</lastLogin>
+		<chars length="5" />
+		<addressList count="1">
+			<ip>23.126.98.198</ip>
+		</addressList>
+		<lastgameloginip>23.126.98.198</lastgameloginip>
+	</account>
+	<account>
+		<username>EEEdddd</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-14T00:10:32.5416796-07:00</created>
+		<lastLogin>2016-03-14T00:22:31.0573046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">10642</char>
+			<char index="1">10646</char>
+			<char index="2">10647</char>
+			<char index="3">10649</char>
+			<char index="4">10654</char>
+		</chars>
+		<addressList count="1">
+			<ip>71.15.106.149</ip>
+		</addressList>
+		<lastgameloginip>71.15.106.149</lastgameloginip>
+	</account>
+	<account>
+		<username>vammie</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>2116399317</HardwareHash>
+		<created>2016-03-13T17:22:10.0573046-07:00</created>
+		<lastLogin>2016-03-15T07:01:12.5573046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9726</char>
+			<char index="1">9776</char>
+		</chars>
+		<addressList count="1">
+			<ip>24.72.161.76</ip>
+		</addressList>
+		<lastgameloginip>24.72.161.76</lastgameloginip>
+	</account>
+	<account>
+		<username>hapidragon</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1455507318</HardwareHash>
+		<created>2016-03-13T09:26:32.5856250-07:00</created>
+		<lastLogin>2016-03-14T16:57:36.3541796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8355</char>
+			<char index="1">8486</char>
+			<char index="2">8663</char>
+			<char index="3">9057</char>
+		</chars>
+		<addressList count="1">
+			<ip>23.126.98.198</ip>
+		</addressList>
+		<lastgameloginip>23.126.98.198</lastgameloginip>
+	</account>
+	<account>
+		<username>1nirvana1</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email>joelhawkins308@gmail.com</email>
+		<accountactivated>true</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>479847987</HardwareHash>
+		<created>2016-03-13T06:46:18.5856250-07:00</created>
+		<lastLogin>2016-03-17T16:37:37.0494921-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7108</char>
+		</chars>
+		<addressList count="1">
+			<ip>75.32.49.51</ip>
+		</addressList>
+		<emailHistory>
+			<addr>joelhawkins308@gmail.com</addr>
+		</emailHistory>
+		<lastgameloginip>75.32.49.51</lastgameloginip>
+	</account>
+	<account>
+		<username>byu17</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-13T17:21:50.7448046-07:00</created>
+		<lastLogin>2016-03-13T19:56:52.9166796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9722</char>
+			<char index="1">10111</char>
+		</chars>
+		<addressList count="1">
+			<ip>23.126.98.198</ip>
+		</addressList>
+		<lastgameloginip>23.126.98.198</lastgameloginip>
+	</account>
+	<account>
+		<username>Bacacay2</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-493390106</HardwareHash>
+		<created>2016-03-15T21:04:40.5260546-07:00</created>
+		<lastLogin>2016-03-17T14:00:03.6510546-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">743</char>
+			<char index="1">1430</char>
+		</chars>
+		<addressList count="1">
+			<ip>68.199.8.52</ip>
+		</addressList>
+		<lastgameloginip>68.199.8.52</lastgameloginip>
+	</account>
+	<account>
+		<username>scudco</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1976926864</HardwareHash>
+		<created>2016-03-15T05:33:02.0573046-07:00</created>
+		<lastLogin>2016-03-15T09:27:17.0104296-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">26147</char>
+		</chars>
+		<addressList count="1">
+			<ip>85.83.77.64</ip>
+		</addressList>
+		<lastgameloginip>85.83.77.64</lastgameloginip>
+	</account>
+	<account>
+		<username>byu18</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1455507318</HardwareHash>
+		<created>2016-03-13T17:06:45.6198046-07:00</created>
+		<lastLogin>2016-03-13T19:55:53.5573046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9717</char>
+			<char index="1">9734</char>
+			<char index="2">9742</char>
+			<char index="3">9748</char>
+			<char index="4">9752</char>
+		</chars>
+		<addressList count="1">
+			<ip>23.126.98.198</ip>
+		</addressList>
+		<lastgameloginip>23.126.98.198</lastgameloginip>
+	</account>
+	<account>
+		<username>Jenohside</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1596623962</HardwareHash>
+		<created>2016-03-13T11:05:00.5387500-07:00</created>
+		<lastLogin>2016-03-13T23:36:20.3385546-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8705</char>
+			<char index="1">8743</char>
+		</chars>
+		<addressList count="1">
+			<ip>98.167.124.107</ip>
+		</addressList>
+		<lastgameloginip>98.167.124.107</lastgameloginip>
+	</account>
+	<account>
+		<username>zaytri3</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email>zdash80@optonline.net</email>
+		<accountactivated>true</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>376585690</HardwareHash>
+		<created>2016-03-13T18:55:27.3073046-07:00</created>
+		<lastLogin>2016-03-17T17:29:18.9303515-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9999</char>
+			<char index="1">1077</char>
+		</chars>
+		<addressList count="1">
+			<ip>100.33.42.147</ip>
+		</addressList>
+		<emailHistory>
+			<addr>zdash80@optonline.net</addr>
+		</emailHistory>
+		<lastgameloginip>100.33.42.147</lastgameloginip>
+	</account>
+	<account>
+		<username>Beefy187</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-170308104</HardwareHash>
+		<created>2016-03-13T15:21:33.3229296-07:00</created>
+		<lastLogin>2016-03-17T15:18:47.7916796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9335</char>
+			<char index="1">1209</char>
+			<char index="2">6233</char>
+			<char index="3">6256</char>
+			<char index="4">6284</char>
+		</chars>
+		<addressList count="1">
+			<ip>71.83.64.21</ip>
+		</addressList>
+		<lastgameloginip>71.83.64.21</lastgameloginip>
+	</account>
+	<account>
+		<username>loganloganlo1992</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>713898656</HardwareHash>
+		<created>2016-03-13T12:19:26.2731250-07:00</created>
+		<lastLogin>2016-03-17T09:42:30.4166796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9007</char>
+			<char index="1">27037</char>
+		</chars>
+		<addressList count="1">
+			<ip>216.66.13.154</ip>
+		</addressList>
+		<lastgameloginip>216.66.13.154</lastgameloginip>
+	</account>
+	<account>
+		<username>cadewinegar2</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>667149999</HardwareHash>
+		<created>2016-03-13T08:03:34.6481250-07:00</created>
+		<lastLogin>2016-03-17T18:10:08.7252734-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">7146</char>
+			<char index="1">7980</char>
+		</chars>
+		<addressList count="3">
+			<ip>209.248.88.35</ip>
+			<ip>174.16.51.18</ip>
+			<ip>184.96.126.83</ip>
+		</addressList>
+		<lastgameloginip>209.248.88.35</lastgameloginip>
+	</account>
+	<account>
+		<username>Saru2</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1583499735</HardwareHash>
+		<created>2016-03-13T21:33:34.8854296-07:00</created>
+		<lastLogin>2016-03-13T23:07:11.3698046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">10297</char>
+			<char index="1">10302</char>
+			<char index="2">10305</char>
+			<char index="3">10308</char>
+			<char index="4">10310</char>
+		</chars>
+		<addressList count="1">
+			<ip>58.88.91.84</ip>
+		</addressList>
+		<lastgameloginip>58.88.91.84</lastgameloginip>
+	</account>
+	<account>
+		<username>cyjax3</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1329787333</HardwareHash>
+		<created>2016-03-13T12:12:17.1950000-07:00</created>
+		<lastLogin>2016-03-14T23:23:03.5260546-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8968</char>
+			<char index="1">8983</char>
+			<char index="2">8992</char>
+			<char index="3">9004</char>
+			<char index="4">9010</char>
+		</chars>
+		<addressList count="1">
+			<ip>68.228.242.106</ip>
+		</addressList>
+		<lastgameloginip>68.228.242.106</lastgameloginip>
+	</account>
+	<account>
+		<username>cyjax2</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1329787333</HardwareHash>
+		<created>2016-03-13T11:49:41.1793750-07:00</created>
+		<lastLogin>2016-03-14T11:36:19.1041796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8780</char>
+			<char index="1">8801</char>
+			<char index="2">8839</char>
+			<char index="3">8873</char>
+			<char index="4">8917</char>
+		</chars>
+		<addressList count="1">
+			<ip>68.228.242.106</ip>
+		</addressList>
+		<lastgameloginip>68.228.242.106</lastgameloginip>
+	</account>
+	<account>
+		<username>Saru3</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-13T21:44:47.6041796-07:00</created>
+		<lastLogin>2016-03-14T03:10:05.6510546-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">10318</char>
+			<char index="1">10321</char>
+			<char index="2">10328</char>
+			<char index="3">10330</char>
+			<char index="4">10334</char>
+		</chars>
+		<addressList count="1">
+			<ip>58.88.91.84</ip>
+		</addressList>
+		<lastgameloginip>58.88.91.84</lastgameloginip>
+	</account>
+	<account>
+		<username>soydinc2</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>2080219512</HardwareHash>
+		<created>2016-03-16T11:22:05.4948046-07:00</created>
+		<lastLogin>2016-03-17T19:39:15.1989062-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">47</char>
+			<char index="1">1734</char>
+			<char index="2">1752</char>
+			<char index="3">1787</char>
+		</chars>
+		<addressList count="1">
+			<ip>108.0.88.21</ip>
+		</addressList>
+		<lastgameloginip>108.0.88.21</lastgameloginip>
+	</account>
+	<account>
+		<username>vammie3</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-14T09:03:38.3541796-07:00</created>
+		<lastLogin>2016-03-14T09:03:52.9791796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">17195</char>
+		</chars>
+		<addressList count="2">
+			<ip>24.142.65.10</ip>
+			<ip>24.72.161.76</ip>
+		</addressList>
+		<lastgameloginip>24.72.161.76</lastgameloginip>
+	</account>
+	<account>
+		<username>vammie2</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email>vammie2@hotmail.com</email>
+		<accountactivated>true</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>2116399317</HardwareHash>
+		<created>2016-03-13T21:36:54.3541796-07:00</created>
+		<lastLogin>2016-03-15T06:40:21.5573046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">17194</char>
+			<char index="1">17746</char>
+		</chars>
+		<addressList count="2">
+			<ip>24.72.161.76</ip>
+			<ip>24.142.65.10</ip>
+		</addressList>
+		<emailHistory>
+			<addr>vammie2@hotmail.com</addr>
+		</emailHistory>
+		<lastgameloginip>24.72.161.76</lastgameloginip>
+	</account>
+	<account>
+		<username>Chaotic Rhythm</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-285185303</HardwareHash>
+		<created>2016-03-14T01:17:26.4791796-07:00</created>
+		<lastLogin>2016-03-16T21:40:46.0416796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">10691</char>
+		</chars>
+		<addressList count="1">
+			<ip>68.34.171.96</ip>
+		</addressList>
+		<lastgameloginip>68.34.171.96</lastgameloginip>
+	</account>
+	<account>
+		<username>girmluhk</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-2079234844</HardwareHash>
+		<created>2016-03-15T21:56:24.2916796-07:00</created>
+		<lastLogin>2016-03-16T23:18:03.5260546-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">960</char>
+		</chars>
+		<addressList count="1">
+			<ip>50.149.71.68</ip>
+		</addressList>
+		<lastgameloginip>50.149.71.68</lastgameloginip>
+	</account>
+	<account>
+		<username>dalamyth</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-2086599809</HardwareHash>
+		<created>2016-03-16T23:35:02.3229296-07:00</created>
+		<lastLogin>2016-03-17T20:36:48.3395312-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">3137</char>
+		</chars>
+		<addressList count="1">
+			<ip>67.4.243.10</ip>
+		</addressList>
+		<lastgameloginip>67.4.243.10</lastgameloginip>
+	</account>
+	<account>
+		<username>jp1234</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1624594923</HardwareHash>
+		<created>2016-03-13T10:58:45.6637500-07:00</created>
+		<lastLogin>2016-03-17T15:46:31.2985156-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8691</char>
+			<char index="1">9035</char>
+			<char index="2">776</char>
+		</chars>
+		<addressList count="1">
+			<ip>75.72.114.218</ip>
+		</addressList>
+		<lastgameloginip>75.72.114.218</lastgameloginip>
+	</account>
+	<account>
+		<username>Peanut82</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>74485018</HardwareHash>
+		<created>2016-03-15T14:55:55.6979296-07:00</created>
+		<lastLogin>2016-03-15T14:56:04.7448046-07:00</lastLogin>
+		<chars length="5" />
+		<addressList count="1">
+			<ip>24.57.122.149</ip>
+		</addressList>
+		<lastgameloginip>24.57.122.149</lastgameloginip>
+	</account>
+	<account>
+		<username>turtle</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-17T18:28:44.8112109-07:00</created>
+		<lastLogin>2016-03-17T18:28:44.8112109-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">1266</char>
+		</chars>
+		<addressList count="1">
+			<ip>76.103.124.37</ip>
+		</addressList>
+		<lastgameloginip>76.103.124.37</lastgameloginip>
+	</account>
+	<account>
+		<username>osman</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>953780387</HardwareHash>
+		<created>2016-03-14T16:12:46.1823046-07:00</created>
+		<lastLogin>2016-03-15T14:16:11.9948046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">18023</char>
+		</chars>
+		<addressList count="1">
+			<ip>78.167.217.128</ip>
+		</addressList>
+		<lastgameloginip>78.167.217.128</lastgameloginip>
+	</account>
+	<account>
+		<username>rigon7</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-15T21:29:52.3541796-07:00</created>
+		<lastLogin>2016-03-15T21:29:52.3541796-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">843</char>
+		</chars>
+		<addressList count="1">
+			<ip>65.190.56.107</ip>
+		</addressList>
+		<lastgameloginip>65.190.56.107</lastgameloginip>
+	</account>
+	<account>
+		<username>jp6969</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1624594923</HardwareHash>
+		<created>2016-03-13T11:57:42.8043750-07:00</created>
+		<lastLogin>2016-03-17T18:20:40.4381640-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8807</char>
+			<char index="1">19571</char>
+		</chars>
+		<addressList count="1">
+			<ip>75.72.114.218</ip>
+		</addressList>
+		<lastgameloginip>75.72.114.218</lastgameloginip>
+	</account>
+	<account>
+		<username>dma636</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<created>2016-03-15T14:52:25.1823046-07:00</created>
+		<lastLogin>2016-03-15T18:55:29.9323046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">27644</char>
+		</chars>
+		<addressList count="1">
+			<ip>76.20.52.186</ip>
+		</addressList>
+		<lastgameloginip>76.20.52.186</lastgameloginip>
+	</account>
+	<account>
+		<username>rigon2</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-772444904</HardwareHash>
+		<created>2016-03-14T00:09:44.1979296-07:00</created>
+		<lastLogin>2016-03-15T21:36:55.7604296-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">10643</char>
+		</chars>
+		<addressList count="1">
+			<ip>65.190.56.107</ip>
+		</addressList>
+		<lastgameloginip>65.190.56.107</lastgameloginip>
+	</account>
+	<account>
+		<username>dma634</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>404655796</HardwareHash>
+		<created>2016-03-14T13:03:04.1979296-07:00</created>
+		<lastLogin>2016-03-16T13:41:21.5885546-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">17645</char>
+			<char index="1">17753</char>
+			<char index="2">17812</char>
+			<char index="3">18123</char>
+		</chars>
+		<addressList count="1">
+			<ip>76.20.52.186</ip>
+		</addressList>
+		<lastgameloginip>76.20.52.186</lastgameloginip>
+	</account>
+	<account>
+		<username>Datacrypt</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email>datacrypt@gmail.com</email>
+		<accountactivated>true</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-1723482877</HardwareHash>
+		<created>2016-03-13T22:42:09.1354296-07:00</created>
+		<lastLogin>2016-03-17T19:02:38.6178515-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">10439</char>
+			<char index="1">10445</char>
+			<char index="2">10456</char>
+			<char index="3">10461</char>
+			<char index="4">10466</char>
+		</chars>
+		<addressList count="1">
+			<ip>24.16.89.53</ip>
+		</addressList>
+		<emailHistory>
+			<addr>datacrypt@gmail.com</addr>
+		</emailHistory>
+		<lastgameloginip>24.16.89.53</lastgameloginip>
+	</account>
+	<account>
+		<username>Strawberry</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1576386301</HardwareHash>
+		<created>2016-03-13T15:56:19.8854296-07:00</created>
+		<lastLogin>2016-03-17T15:34:13.6979296-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">9974</char>
+		</chars>
+		<addressList count="1">
+			<ip>99.228.105.208</ip>
+		</addressList>
+		<lastgameloginip>99.228.105.208</lastgameloginip>
+	</account>
+	<account>
+		<username>Rembrandt</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-415475059</HardwareHash>
+		<created>2016-03-13T11:01:20.7262500-07:00</created>
+		<lastLogin>2016-03-17T09:43:00.9323046-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">8692</char>
+			<char index="1">9448</char>
+		</chars>
+		<addressList count="2">
+			<ip>71.15.106.149</ip>
+			<ip>195.154.128.163</ip>
+		</addressList>
+		<lastgameloginip>71.15.106.149</lastgameloginip>
+	</account>
+	<account>
+		<username>Peanuts82</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>-112081297</HardwareHash>
+		<created>2016-03-15T13:46:10.9791796-07:00</created>
+		<lastLogin>2016-03-15T15:17:13.1979296-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">27535</char>
+		</chars>
+		<addressList count="1">
+			<ip>24.57.122.149</ip>
+		</addressList>
+		<lastgameloginip>24.57.122.149</lastgameloginip>
+	</account>
+	<account>
+		<username>Mmmfft</username>
+		<cryptPassword>7B-02-83-67-09-DF-EE-54-0F-29-FB-56-E6-99-C5-58</cryptPassword>
+		<email />
+		<accountactivated>false</accountactivated>
+		<activationkey />
+		<resetpassword />
+		<resetpwdtime>0001-01-01T00:00:00.0000000-08:00</resetpwdtime>
+		<HardwareHash>1086358268</HardwareHash>
+		<created>2016-03-14T20:17:48.5729296-07:00</created>
+		<lastLogin>2016-03-17T19:54:26.0582812-07:00</lastLogin>
+		<chars length="5">
+			<char index="0">19047</char>
+		</chars>
+		<addressList count="1">
+			<ip>71.84.181.229</ip>
+		</addressList>
+		<lastgameloginip>71.84.181.229</lastgameloginip>
+	</account>
+</accounts>

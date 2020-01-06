@@ -1,0 +1,117 @@
+/*
+ *	This program is the CONFIDENTIAL and PROPRIETARY property 
+ *	of Tomasello Software LLC. Any unauthorized use, reproduction or
+ *	transfer of this computer program is strictly prohibited.
+ *
+ *      Copyright (c) 2004 Tomasello Software LLC.
+ *	This is an unpublished work, and is subject to limited distribution and
+ *	restricted disclosure only. ALL RIGHTS RESERVED.
+ *
+ *			RESTRICTED RIGHTS LEGEND
+ *	Use, duplication, or disclosure by the Government is subject to
+ *	restrictions set forth in subparagraph (c)(1)(ii) of the Rights in
+ * 	Technical Data and Computer Software clause at DFARS 252.227-7013.
+ *
+ *	Angel Island UO Shard	Version 1.0
+ *			Release A
+ *			March 25, 2004
+ */
+
+using System;
+using Server.Network;
+using Server.Items;
+
+namespace Server.Items
+{
+	[FlipableAttribute(0x13B2, 0x13B1)]
+	public class JukaBow : Bow
+	{
+		//		public override int AosStrengthReq{ get{ return 80; } }
+		//		public override int AosDexterityReq{ get{ return 80; } }
+
+		public override int OldStrengthReq { get { return 80; } }
+		public override int OldDexterityReq { get { return 80; } }
+
+		[CommandProperty(AccessLevel.GameMaster)]
+		public bool IsModified
+		{
+			get { return (Hue == 0x453); }
+		}
+
+		[Constructable]
+		public JukaBow()
+		{
+		}
+
+		public override void OnDoubleClick(Mobile from)
+		{
+			if (IsModified)
+			{
+				from.SendMessage("That has already been modified.");
+			}
+			else if (!IsChildOf(from.Backpack))
+			{
+				from.SendMessage("This must be in your backpack to modify it.");
+			}
+			else if (from.Skills[SkillName.Fletching].Base < 100.0)
+			{
+				from.SendMessage("Only a grandmaster bowcrafter can modify this weapon.");
+			}
+			else
+			{
+				from.BeginTarget(2, false, Targeting.TargetFlags.None, new TargetCallback(OnTargetGears));
+				from.SendMessage("Select the gears you wish to use.");
+			}
+		}
+
+		public void OnTargetGears(Mobile from, object targ)
+		{
+			Gears g = targ as Gears;
+
+			if (g == null || !g.IsChildOf(from.Backpack))
+			{
+				from.SendMessage("Those are not gears."); // Apparently gears that aren't in your backpack aren't really gears at all. :-(
+			}
+			else if (IsModified)
+			{
+				from.SendMessage("That has already been modified.");
+			}
+			else if (!IsChildOf(from.Backpack))
+			{
+				from.SendMessage("This must be in your backpack to modify it.");
+			}
+			else if (from.Skills[SkillName.Fletching].Base < 100.0)
+			{
+				from.SendMessage("Only a grandmaster bowcrafter can modify this weapon.");
+			}
+			else
+			{
+				g.Consume();
+
+				Hue = 0x453;
+				Slayer = (SlayerName)Utility.Random(2, 25);
+
+				from.SendMessage("You modify it.");
+			}
+		}
+
+		public JukaBow(Serial serial)
+			: base(serial)
+		{
+		}
+
+		public override void Serialize(GenericWriter writer)
+		{
+			base.Serialize(writer);
+
+			writer.Write((int)0); // version
+		}
+
+		public override void Deserialize(GenericReader reader)
+		{
+			base.Deserialize(reader);
+
+			int version = reader.ReadInt();
+		}
+	}
+}

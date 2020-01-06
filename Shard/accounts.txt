@@ -1,0 +1,49 @@
+;
+; All account databases are now loaded by all servers.
+; This is a little expensive memory wise, but solves the need for a central account database.
+; User names + a valid password (on any server) gets you access
+; rules
+; ------------------------------------------------------------------------------------------------------------
+; Acct logon AI  | Acct on SP  | Acct on AIR | etc. | What kind of access is allowed
+; ------------------------------------------------------------------------------------------------------------
+;    NO          |     NO     |   NO        |      |  Allow normal account creation
+; ------------------------------------------------------------------------------------------------------------
+;    NO          |     YES     |   YES       |      |  Allow account login server creation if password is known   
+; ------------------------------------------------------------------------------------------------------------
+;    YES         |     NO      |   NO        |      |  Allow normal account creation                             
+; ------------------------------------------------------------------------------------------------------------
+;    YES         |     YES     |   YES       |      |  Any password gets access                             
+; ------------------------------------------------------------------------------------------------------------
+;    YES         |     NO      |   YES       |      |  Any password gets access                             
+; ------------------------------------------------------------------------------------------------------------
+;                |             |             |      |                               
+; ------------------------------------------------------------------------------------------------------------
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; ACCOUNT CREATION RULE:
+; there are NO STAFF accounts with this username and either you have NO accounts, or you have a matching account name and password for another shard.
+; if (AutoAccountCreation && !Account.CheckAllStaff(null, un, false) && (!Account.CheckAllAccounts(un) || (Account.CheckAllAccounts(un) && Account.CheckAllPasswords(un, pw))))
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; ACCOUNT LOGIN RULE:
+; You succeed login when your password matches some shard and no shards have a user with the same name with greater access 
+; if (Account.CheckAllPasswords(un, pw) && !Account.CheckAllStaff(acct, un, true))
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; this server - must always be first
+./Saves/Accounts
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; neighbor servers
+
+; developer second shard
+../Server(2)/Saves/Accounts
+
+; actual production shards
+../AI Resurrection/Saves/Accounts
+../AI Test Center/Saves/Accounts
+../Angel Island/Saves/Accounts
+../Mortalis/Saves/Accounts
+../Mortalis Test Center/Saves/Accounts
+../Siege Perilous/Saves/Accounts
+../Siege Test Center/Saves/Accounts

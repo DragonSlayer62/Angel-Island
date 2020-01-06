@@ -1,0 +1,47 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{0C99688B-4730-4AF8-93FD-BBE65801FB41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scripts", "Scripts\Scripts.csproj", "{BDBC25AA-F7B6-4764-8088-53BF2D92D130}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0C99688B-4730-4AF8-93FD-BBE65801FB41} = {0C99688B-4730-4AF8-93FD-BBE65801FB41}
+		{6EB5F5DC-E1F4-49C9-9024-4325DBE4B1D7} = {6EB5F5DC-E1F4-49C9-9024-4325DBE4B1D7}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{6EB5F5DC-E1F4-49C9-9024-4325DBE4B1D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rebuild", "rebuild\rebuild.csproj", "{9D879120-52D4-49A4-A78A-827DC9C1558E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{7BA35FF5-7E32-4D09-8988-7EF85049B363}"
+	ProjectSection(SolutionItems) = preProject
+		Docs\Chiloc.txt = Docs\Chiloc.txt
+		Docs\cliloc-1.txt = Docs\cliloc-1.txt
+		Docs\UO Stratics - Good _ Evil.pdf = Docs\UO Stratics - Good _ Evil.pdf
+		Docs\uo_protocol.pdf = Docs\uo_protocol.pdf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C99688B-4730-4AF8-93FD-BBE65801FB41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C99688B-4730-4AF8-93FD-BBE65801FB41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C99688B-4730-4AF8-93FD-BBE65801FB41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C99688B-4730-4AF8-93FD-BBE65801FB41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDBC25AA-F7B6-4764-8088-53BF2D92D130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDBC25AA-F7B6-4764-8088-53BF2D92D130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDBC25AA-F7B6-4764-8088-53BF2D92D130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDBC25AA-F7B6-4764-8088-53BF2D92D130}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EB5F5DC-E1F4-49C9-9024-4325DBE4B1D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB5F5DC-E1F4-49C9-9024-4325DBE4B1D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D879120-52D4-49A4-A78A-827DC9C1558E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D879120-52D4-49A4-A78A-827DC9C1558E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D879120-52D4-49A4-A78A-827DC9C1558E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D879120-52D4-49A4-A78A-827DC9C1558E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

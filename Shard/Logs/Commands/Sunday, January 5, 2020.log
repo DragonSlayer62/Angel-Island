@@ -1,0 +1,34 @@
+##############################
+Log started on 1/5/2020 10:02:50 AM
+
+1/5/2020 10:09:56 AM: 127.0.0.1: Owner PlayerMobile(0x13237 "Adam Ant") ('Adam Ant') logged in
+1/5/2020 10:11:15 AM: 127.0.0.1: Owner PlayerMobile(0x13237 "Adam Ant") ('Adam Ant') used command 'go '
+1/5/2020 10:12:00 AM: : Owner PlayerMobile(0x13237 "Adam Ant") ('Adam Ant') logged out
+1/5/2020 10:12:45 AM: 127.0.0.1: Owner PlayerMobile(0x13237 "Adam Ant") ('Adam Ant') logged in
+1/5/2020 10:13:04 AM: 127.0.0.1: Owner PlayerMobile(0x13237 "Adam Ant") ('Adam Ant') used command 'admin '
+1/5/2020 10:13:21 AM: 127.0.0.1: Owner PlayerMobile(0x13237 "Adam Ant") ('Adam Ant') shuting down server (Restart: False) (Save: False)
+##############################
+Log started on 1/5/2020 10:14:18 AM
+
+1/5/2020 10:15:19 AM: 127.0.0.1: Owner PlayerMobile(0x13237 "Adam Ant") ('Adam Ant') logged in
+1/5/2020 10:15:29 AM: 127.0.0.1: Owner PlayerMobile(0x13237 "Adam Ant") ('Adam Ant') used command 'admin '
+1/5/2020 10:15:37 AM: 127.0.0.1: Owner PlayerMobile(0x13237 "Adam Ant") ('Adam Ant') shuting down server (Restart: False) (Save: False)
+##############################
+Log started on 1/5/2020 10:42:49 AM
+
+1/5/2020 10:43:25 AM: 127.0.0.1: Owner PlayerMobile(0x13237 "Adam Ant") ('Adam Ant') logged in
+1/5/2020 10:43:32 AM: 127.0.0.1: Owner PlayerMobile(0x13237 "Adam Ant") ('Adam Ant') used command 'admin '
+1/5/2020 10:43:39 AM: 127.0.0.1: Owner PlayerMobile(0x13237 "Adam Ant") ('Adam Ant') shuting down server (Restart: False) (Save: False)
+##############################
+Log started on 1/5/2020 1:58:00 PM
+
+1/5/2020 1:58:59 PM: 127.0.0.1: Owner PlayerMobile(0x13237 "Adam Ant") ('Adam Ant') logged in
+1/5/2020 1:59:07 PM: 127.0.0.1: Owner PlayerMobile(0x13237 "Adam Ant") ('Adam Ant') used command 'admin '
+1/5/2020 1:59:23 PM: 127.0.0.1: Owner PlayerMobile(0x13237 "Adam Ant") ('Adam Ant') used command 'save '
+1/5/2020 1:59:28 PM: 127.0.0.1: Owner PlayerMobile(0x13237 "Adam Ant") ('Adam Ant') shuting down server (Restart: False) (Save: False)
+##############################
+Log started on 1/5/2020 2:03:09 PM
+
+1/5/2020 2:03:17 PM: 127.0.0.1: Owner PlayerMobile(0x13237 "Adam Ant") ('Adam Ant') logged in
+1/5/2020 2:03:28 PM: 127.0.0.1: Owner PlayerMobile(0x13237 "Adam Ant") ('Adam Ant') used command 'admin '
+1/5/2020 2:03:33 PM: 127.0.0.1: Owner PlayerMobile(0x13237 "Adam Ant") ('Adam Ant') shuting down server (Restart: False) (Save: False)

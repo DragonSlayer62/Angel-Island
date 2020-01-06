@@ -1,0 +1,577 @@
+Log start : 3/23/2016 6:55:27 PM
+Could not find a part of the path 'C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\live'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at Server.Accounting.Account.ReadAllPasswords() in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Accounting\Account.cs:line 716
+Completed in 0.0200708 seconds, 1 entry logged
+Log start : 3/23/2016 6:55:29 PM
+Could not find a part of the path 'C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\live'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at Server.Accounting.Account.ReadAllPasswords() in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Accounting\Account.cs:line 716
+Completed in 0.0005032 seconds, 1 entry logged
+Log start : 3/23/2016 6:58:09 PM
+Could not find a part of the path 'C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\live'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at Server.Accounting.Account.ReadAllPasswords() in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Accounting\Account.cs:line 716
+Completed in 0.0005009 seconds, 1 entry logged
+Log start : 3/23/2016 6:58:16 PM
+Could not find a part of the path 'C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\live'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at Server.Accounting.Account.ReadAllPasswords() in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Accounting\Account.cs:line 716
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 6:58:36 PM
+Could not find a part of the path 'C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\live'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at Server.Accounting.Account.ReadAllPasswords() in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Accounting\Account.cs:line 716
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 6:58:41 PM
+Could not find a part of the path 'C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\live'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at Server.Accounting.Account.ReadAllPasswords() in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Accounting\Account.cs:line 716
+Completed in 0.0005003 seconds, 1 entry logged
+Log start : 3/23/2016 6:58:42 PM
+Could not find a part of the path 'C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\live'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at Server.Accounting.Account.ReadAllPasswords() in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Accounting\Account.cs:line 716
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 6:59:03 PM
+Could not find a part of the path 'C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\live'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at Server.Accounting.Account.ReadAllPasswords() in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Accounting\Account.cs:line 716
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 6:59:04 PM
+Could not find a part of the path 'C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\live'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at Server.Accounting.Account.ReadAllPasswords() in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Accounting\Account.cs:line 716
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:04:00 PM
+Mobile(0x3 "Miremba") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0005258 seconds, 1 entry logged
+Log start : 3/23/2016 7:04:02 PM
+Mobile(0x3 "Miremba") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:04:04 PM
+Mobile(0x3 "Miremba") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:04:06 PM
+Mobile(0x3 "Miremba") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:04:08 PM
+Mobile(0x3 "Miremba") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0005006 seconds, 1 entry logged
+Log start : 3/23/2016 7:04:10 PM
+Mobile(0x3 "Miremba") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:04:12 PM
+Mobile(0x3 "Miremba") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:04:14 PM
+Mobile(0x3 "Miremba") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:04:16 PM
+Mobile(0x3 "Miremba") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:04:18 PM
+Mobile(0x3 "Miremba") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:04:20 PM
+Mobile(0x3 "Miremba") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:04:22 PM
+Mobile(0x3 "Miremba") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:04:24 PM
+Mobile(0x3 "Miremba") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:42 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:43 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0005059 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:43 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:44 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:44 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0004986 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:44 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:45 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:45 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0005003 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:46 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0005023 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:46 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:47 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:47 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:47 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:48 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:48 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0005019 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:49 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:49 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0004996 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:50 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0011979 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:50 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:50 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0005009 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:51 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0005022 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:51 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:52 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:52 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0004999 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:53 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:53 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:53 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:54 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0004996 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:54 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:55 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0004771 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:55 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:56 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:56 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0005003 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:56 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:57 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:57 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:58 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:58 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:59 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:59 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0004989 seconds, 1 entry logged
+Log start : 3/23/2016 7:29:59 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0004764 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:00 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:00 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0005026 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:01 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:01 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:02 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0004992 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:02 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0005063 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:02 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:03 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0005006 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:03 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:04 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0005026 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:04 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:05 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0005012 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:05 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:05 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:06 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:06 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0005026 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:07 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:07 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:08 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0010856 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:08 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:08 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:09 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0005026 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:09 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0005026 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:10 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0005009 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:10 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:11 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0004999 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:11 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.000499 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:11 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0012806 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:12 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:12 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0005059 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:13 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:13 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:14 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0004996 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:14 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:14 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0.0005023 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:15 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:15 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:30:16 PM
+Mobile(0x49 "Luscious Moori") has no fightmode.
+   at Server.Misc.Diagnostics.Assert(Boolean assertion, String text) in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Misc\Diagnostics.cs:line 42
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:51:50 PM
+Could not find a part of the path 'C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\live'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at Server.Accounting.Account.ReadAllPasswords() in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Accounting\Account.cs:line 716
+Completed in 0.0195136 seconds, 1 entry logged
+Log start : 3/23/2016 7:51:51 PM
+Could not find a part of the path 'C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\live'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at Server.Accounting.Account.ReadAllPasswords() in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Accounting\Account.cs:line 716
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:52:07 PM
+Could not find a part of the path 'C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\live'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at Server.Accounting.Account.ReadAllPasswords() in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Accounting\Account.cs:line 716
+Completed in 0.0005002 seconds, 1 entry logged
+Log start : 3/23/2016 7:52:09 PM
+Could not find a part of the path 'C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\live'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at Server.Accounting.Account.ReadAllPasswords() in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Accounting\Account.cs:line 716
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:53:04 PM
+Could not find a part of the path 'C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\live'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at Server.Accounting.Account.ReadAllPasswords() in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Accounting\Account.cs:line 716
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:53:05 PM
+Could not find a part of the path 'C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\live'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at Server.Accounting.Account.ReadAllPasswords() in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Accounting\Account.cs:line 716
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:53:24 PM
+Could not find a part of the path 'C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\live'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at Server.Accounting.Account.ReadAllPasswords() in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Accounting\Account.cs:line 716
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:53:26 PM
+Could not find a part of the path 'C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\live'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at Server.Accounting.Account.ReadAllPasswords() in C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\Angel Island.live\Scripts\Accounting\Account.cs:line 716
+Completed in 0.0005002 seconds, 1 entry logged
+Log start : 3/23/2016 7:57:18 PM
+Could not find a part of the path 'C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\live'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at Server.Accounting.Account.ReadAllPasswords()
+Completed in 0.0010005 seconds, 1 entry logged
+Log start : 3/23/2016 7:57:19 PM
+Could not find a part of the path 'C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\live'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at Server.Accounting.Account.ReadAllPasswords()
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:57:37 PM
+Could not find a part of the path 'C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\live'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at Server.Accounting.Account.ReadAllPasswords()
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:57:38 PM
+Could not find a part of the path 'C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\live'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at Server.Accounting.Account.ReadAllPasswords()
+Completed in 0.0005009 seconds, 1 entry logged
+Log start : 3/23/2016 7:57:55 PM
+Could not find a part of the path 'C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\live'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at Server.Accounting.Account.ReadAllPasswords()
+Completed in 0 seconds, 1 entry logged
+Log start : 3/23/2016 7:57:56 PM
+Could not find a part of the path 'C:\Users\luket\OneDrive\Documents\Software\Development\Product\Src\live'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at Server.Accounting.Account.ReadAllPasswords()
+Completed in 0 seconds, 1 entry logged
+Log start : 1/5/2020 10:09:46 AM
+Could not find a part of the path 'C:\Users\luket\Documents\Visual Studio 2005\Projects\live'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at Server.Accounting.Account.ReadAllPasswords() in C:\Users\luket\Documents\Visual Studio 2005\Projects\Angel Island.live\Scripts\Accounting\Account.cs:line 716
+Completed in 0.0240019 seconds, 1 entry logged
+Log start : 1/5/2020 10:09:52 AM
+Could not find a part of the path 'C:\Users\luket\Documents\Visual Studio 2005\Projects\live'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at Server.Accounting.Account.ReadAllPasswords() in C:\Users\luket\Documents\Visual Studio 2005\Projects\Angel Island.live\Scripts\Accounting\Account.cs:line 716
+Completed in 0 seconds, 1 entry logged
+Log start : 1/5/2020 10:12:40 AM
+Could not find a part of the path 'C:\Users\luket\Documents\Visual Studio 2005\Projects\live'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at Server.Accounting.Account.ReadAllPasswords() in C:\Users\luket\Documents\Visual Studio 2005\Projects\Angel Island.live\Scripts\Accounting\Account.cs:line 716
+Completed in 0 seconds, 1 entry logged
+Log start : 1/5/2020 10:12:42 AM
+Could not find a part of the path 'C:\Users\luket\Documents\Visual Studio 2005\Projects\live'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at Server.Accounting.Account.ReadAllPasswords() in C:\Users\luket\Documents\Visual Studio 2005\Projects\Angel Island.live\Scripts\Accounting\Account.cs:line 716
+Completed in 0 seconds, 1 entry logged
+Log start : 1/5/2020 10:15:15 AM
+Could not find a part of the path 'C:\Users\luket\Documents\Visual Studio 2005\Projects\live'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at Server.Accounting.Account.ReadAllPasswords()
+Completed in 0.0009993 seconds, 1 entry logged
+Log start : 1/5/2020 10:15:16 AM
+Could not find a part of the path 'C:\Users\luket\Documents\Visual Studio 2005\Projects\live'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetFiles(String path, String searchPattern, SearchOption searchOption)
+   at Server.Accounting.Account.ReadAllPasswords()
+Completed in 0 seconds, 1 entry logged
+Log start : 1/5/2020 1:59:22 PM
+Access to the path 'C:\Users\luket\Documents\Visual Studio 2005\Projects\Angel Island\Shard\Saves' is denied.
+   at System.IO.Directory.Move(String sourceDirName, String destDirName)
+   at Server.Misc.AutoSave.Backup() in C:\Users\luket\Documents\Visual Studio 2005\Projects\Angel Island\Shard\Scripts\Misc\AutoSave.cs:line 257
+   at Server.Misc.AutoSave.Save() in C:\Users\luket\Documents\Visual Studio 2005\Projects\Angel Island\Shard\Scripts\Misc\AutoSave.cs:line 154
+Completed in 0 seconds, 1 entry logged
